@@ -1,0 +1,33 @@
+Project Phase 1: Amina Shikhalieva (as2642), Gauri Pidatala (vp233)
+
+Github link: https://github.com/Amina-S/2950_project 
+
+Dataset Ideas:
+1.	Some combination of the stats pages of classes on Piazza, ratings from ratemyprofs.com, course 
+grading systems, and/or reddit discussion topics. Our idea is to basically answer the question of 
+how to make a class a better, more enjoyable learning environment for students. For instance, 
+does a faster average response time on Piazza correspond with higher overall marks on 
+ratemyprof.com (which also gives info about student opinions of the class)? Are there certain 
+patterns among grading systems which correspond with more critical posts about the class on 
+reddit? 
+We plan to use Piazza stats from CS and non-CS courses we’ve taken, and that our friends have 
+taken, and subdivide our results by subject (for instance, we’ve heard lots of complaints of 
+physics professors being really inactive on Piazza and causing frustration among students, and 
+we’d like to investigate its effects).
+2.	Eating habits during quarantine. We wanted to analyze shopping habits of American consumers 
+and identify any change in eating habits. For example, do people opt to buy more processed 
+foods to save money? Or will there be a greater shift to whole foods for cooking at home?
+3.	An investigation to see the highest scoring kicks of taekwondo athletes in relation to their height. 
+In taekwondo there are general styles that are recommended for people with shorter vs longer 
+legs, but which kicks specifically score more points for people of any height? We planned to 
+collect height data on Olympic taekwondo athletes and watch matches from the 2016 Olympics 
+and record which kicks score how many points for each athlete.
+
+Questions for reviewers:
+-	We are leaning most towards our first idea, but we were wondering if the data analysis we want 
+is too simplistic. The hardest part of our plan would be collecting the data and somehow 
+quantifying student opinions on each class (we planned to use average ratings on 
+ratemyprofessor.com for the professor who taught the class that given semester as one 
+measure of like-ability of the course). Is there any deeper or more complex way to analyze our 
+data to get the most insightful results?
+-	

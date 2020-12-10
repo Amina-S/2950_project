@@ -1,67 +1,602 @@
 Name,Quality,Difficulty,Would Take Again,Date,Class taught
-Haym Hirsh ,4.0,3.0,None,None
-Haym Hirsh ,4.0,3.0,None,None
-Haym Hirsh ,1.0,2.0,None,None
-Haym Hirsh ,1.0,4.0,None,None
+Haym Hirsh ,4.0,3.0,Yes,"May 11th, 2020"
+Haym Hirsh ,4.0,3.0,Yes,"Apr 9th, 2020"
+Haym Hirsh ,1.0,2.0,No,"Dec 14th, 2019"
+Haym Hirsh ,1.0,4.0,No,"Nov 12th, 2019"
 Haym Hirsh ,None,None,None,None
-Haym Hirsh ,5.0,3.0,None,None
-Haym Hirsh ,1.0,1.0,None,None
-Haym Hirsh ,4.0,2.0,None,None
+Haym Hirsh ,5.0,3.0,Yes,"Jun 28th, 2019"
+Haym Hirsh ,1.0,1.0,No,"Jan 31st, 2019"
+Haym Hirsh ,4.0,2.0,Yes,"May 29th, 2018"
 Haym Hirsh ,None,None,None,None
-Haym Hirsh ,1.0,1.0,None,None
-Haym Hirsh ,1.0,3.0,None,None
-Haym Hirsh ,5.0,3.0,None,None
+Haym Hirsh ,1.0,1.0,Yes,"May 16th, 2018"
+Haym Hirsh ,1.0,3.0,No,"Jan 9th, 2018"
+Haym Hirsh ,5.0,3.0,Yes,"Aug 19th, 2017"
 Haym Hirsh ,None,None,None,None
-Haym Hirsh ,5.0,3.0,None,None
-Walker White ,5.0,2.0,None,None
-Walker White ,5.0,4.0,None,None
-Walker White ,5.0,5.0,None,None
-Walker White ,5.0,4.0,None,None
+Haym Hirsh ,5.0,3.0,Yes,"Jun 25th, 2017"
+Walker White ,5.0,2.0,A,"Apr 28th, 2020"
+Walker White ,5.0,4.0,Yes,"Feb 21st, 2020"
+Walker White ,5.0,5.0,B-,"Jan 15th, 2020"
+Walker White ,5.0,4.0,Yes,"Dec 28th, 2019"
 Walker White ,None,None,None,None
-Walker White ,4.0,3.0,None,None
-Walker White ,5.0,3.0,None,None
-Walker White ,5.0,4.0,None,None
+Walker White ,4.0,3.0,Yes,"Dec 5th, 2019"
+Walker White ,5.0,3.0,Yes,"Nov 26th, 2019"
+Walker White ,5.0,4.0,Yes,"Apr 19th, 2019"
 Walker White ,None,None,None,None
-Walker White ,5.0,4.0,None,None
-Walker White ,4.0,4.0,None,None
-Walker White ,5.0,3.0,None,None
+Walker White ,5.0,4.0,Yes,"Jan 11th, 2019"
+Walker White ,4.0,4.0,No,"Jan 11th, 2019"
+Walker White ,5.0,3.0,Yes,"Jan 3rd, 2019"
 Walker White ,None,None,None,None
-Walker White ,5.0,3.0,None,None
-Walker White ,5.0,3.0,None,None
-Walker White ,4.0,3.0,None,None
+Walker White ,5.0,3.0,A,"Dec 22nd, 2018"
+Walker White ,5.0,3.0,Yes,"Dec 14th, 2018"
+Walker White ,4.0,3.0,Yes,"Dec 10th, 2018"
 Walker White ,None,None,None,None
-Walker White ,5.0,3.0,None,None
-Walker White ,5.0,3.0,None,None
-Walker White ,5.0,4.0,None,None
+Walker White ,5.0,3.0,Yes,"Nov 11th, 2018"
+Walker White ,5.0,3.0,Yes,"Nov 10th, 2018"
+Walker White ,5.0,4.0,Yes,"Nov 9th, 2018"
 Walker White ,None,None,None,None
-Walker White ,5.0,4.0,None,None
-Walker White ,5.0,3.0,None,None
-Walker White ,4.0,5.0,None,None
+Walker White ,5.0,4.0,Yes,"Nov 4th, 2018"
+Walker White ,5.0,3.0,Yes,"Oct 22nd, 2018"
+Walker White ,4.0,5.0,No,"Oct 1st, 2018"
 Walker White ,None,None,None,None
-Walker White ,3.0,5.0,None,None
-David Gries ,5.0,3.0,None,None
-David Gries ,5.0,4.0,None,None
-David Gries ,5.0,3.0,None,None
-David Gries ,1.0,4.0,None,None
+Walker White ,3.0,5.0,No,"Jul 9th, 2018"
+David Gries ,5.0,3.0,Yes,"May 23rd, 2020"
+David Gries ,5.0,4.0,Yes,"May 22nd, 2020"
+David Gries ,5.0,3.0,Yes,"Mar 12th, 2020"
+David Gries ,1.0,4.0,No,"Nov 19th, 2019"
 David Gries ,None,None,None,None
-David Gries ,4.0,3.0,None,None
-David Gries ,1.0,3.0,None,None
-David Gries ,4.0,3.0,None,None
+David Gries ,4.0,3.0,Yes,"Jul 23rd, 2019"
+David Gries ,1.0,3.0,No,"Jun 4th, 2019"
+David Gries ,4.0,3.0,Yes,"Jan 24th, 2019"
 David Gries ,None,None,None,None
-David Gries ,5.0,3.0,None,None
-David Gries ,4.0,4.0,None,None
-David Gries ,3.0,3.0,None,None
+David Gries ,5.0,3.0,Yes,"Jan 12th, 2019"
+David Gries ,4.0,4.0,Yes,"Dec 15th, 2018"
+David Gries ,3.0,3.0,No,"Nov 19th, 2018"
 David Gries ,None,None,None,None
-David Gries ,1.0,3.0,None,None
-David Gries ,5.0,3.0,None,None
-David Gries ,4.0,3.0,None,None
+David Gries ,1.0,3.0,A-,"Feb 21st, 2018"
+David Gries ,5.0,3.0,Yes,"Dec 28th, 2017"
+David Gries ,4.0,3.0,No,"Nov 28th, 2017"
 David Gries ,None,None,None,None
-David Gries ,5.0,3.0,None,None
-David Gries ,3.0,3.0,None,None
-David Gries ,4.0,3.0,None,None
+David Gries ,5.0,3.0,Yes,"Aug 18th, 2017"
+David Gries ,3.0,3.0,Yes,"May 15th, 2017"
+David Gries ,4.0,3.0,Yes,"Apr 25th, 2017"
 David Gries ,None,None,None,None
-David Gries ,1.0,4.0,None,None
-David Gries ,5.0,2.0,None,None
-David Gries ,5.0,4.0,None,None
+David Gries ,1.0,4.0,No,"Apr 5th, 2017"
+David Gries ,5.0,2.0,Yes,"Dec 25th, 2016"
+David Gries ,5.0,4.0,Yes,"Dec 20th, 2016"
 David Gries ,None,None,None,None
-David Gries ,5.0,3.0,None,None
+David Gries ,5.0,3.0,Yes,"Nov 6th, 2016"
+Anne Bracy ,5.0,5.0,Yes,"Nov 26th, 2020"
+Anne Bracy ,1.0,4.0,No,"Feb 12th, 2020"
+Anne Bracy ,5.0,4.0,Yes,"Dec 9th, 2019"
+Anne Bracy ,1.0,4.0,Yes,"Oct 18th, 2019"
+Anne Bracy ,None,None,None,None
+Anne Bracy ,1.0,3.0,No,"Oct 18th, 2019"
+Anne Bracy ,5.0,2.0,Yes,"Oct 2nd, 2019"
+Anne Bracy ,1.0,2.0,No,"Jun 24th, 2019"
+Anne Bracy ,None,None,None,None
+Anne Bracy ,1.0,5.0,No,"Apr 8th, 2019"
+Anne Bracy ,5.0,4.0,Yes,"Dec 12th, 2018"
+Anne Bracy ,5.0,5.0,Yes,"Dec 10th, 2018"
+Anne Bracy ,None,None,None,None
+Anne Bracy ,5.0,4.0,Yes,"Nov 8th, 2018"
+Anne Bracy ,5.0,2.0,Yes,"Aug 13th, 2018"
+Anne Bracy ,4.0,3.0,Yes,"May 20th, 2018"
+Anne Bracy ,None,None,None,None
+Anne Bracy ,5.0,4.0,Yes,"May 18th, 2018"
+Anne Bracy ,5.0,2.0,Yes,"May 13th, 2018"
+Anne Bracy ,5.0,4.0,B+,"Feb 20th, 2018"
+Anne Bracy ,None,None,None,None
+Anne Bracy ,5.0,4.0,Yes,"Feb 17th, 2018"
+Anne Bracy ,5.0,4.0,A,"Dec 9th, 2017"
+Anne Bracy ,5.0,5.0,Yes,"Dec 8th, 2017"
+Anne Bracy ,None,None,None,None
+Anne Bracy ,1.0,5.0,Yes,"Jul 6th, 2017"
+Michael Clarkson ,5.0,5.0,Yes,"Dec 8th, 2020"
+Michael Clarkson ,5.0,2.0,Yes,"Aug 16th, 2020"
+Michael Clarkson ,4.0,3.0,Yes,"May 23rd, 2020"
+Michael Clarkson ,5.0,4.0,Yes,"Apr 7th, 2020"
+Michael Clarkson ,None,None,None,None
+Michael Clarkson ,5.0,3.0,Yes,"Feb 6th, 2020"
+Michael Clarkson ,5.0,4.0,Yes,"Sep 11th, 2019"
+Michael Clarkson ,5.0,4.0,Yes,"Aug 21st, 2019"
+Michael Clarkson ,None,None,None,None
+Michael Clarkson ,1.0,3.0,No,"Dec 14th, 2018"
+Michael Clarkson ,5.0,4.0,Yes,"Apr 7th, 2018"
+Michael Clarkson ,5.0,4.0,Yes,"Jan 23rd, 2018"
+Michael Clarkson ,None,None,None,None
+Michael Clarkson ,5.0,4.0,Yes,"Dec 7th, 2017"
+Michael Clarkson ,5.0,4.0,No,"Dec 5th, 2017"
+Michael Clarkson ,5.0,3.0,Yes,"Apr 20th, 2017"
+Michael Clarkson ,None,None,None,None
+Michael George ,4.0,3.0,Yes,"Dec 3rd, 2020"
+Michael George ,4.0,4.0,Yes,"May 23rd, 2020"
+Michael George ,5.0,4.0,Yes,"May 16th, 2020"
+Michael George ,1.0,5.0,No,"Apr 18th, 2020"
+Michael George ,None,None,None,None
+Michael George ,4.0,3.0,Yes,"Jan 23rd, 2020"
+Michael George ,1.0,5.0,No,"Jan 23rd, 2020"
+Michael George ,1.0,5.0,No,"Sep 4th, 2019"
+Michael George ,None,None,None,None
+Michael George ,4.0,4.0,Yes,"May 19th, 2019"
+Michael George ,3.0,5.0,No,"May 7th, 2019"
+Michael George ,3.0,5.0,No,"Dec 15th, 2018"
+Michael George ,None,None,None,None
+Michael George ,2.0,5.0,No,"Oct 15th, 2018"
+Michael George ,5.0,4.0,No,"Aug 31st, 2018"
+Michael George ,5.0,3.0,Yes,"Aug 20th, 2018"
+Michael George ,None,None,None,None
+Michael George ,4.0,4.0,Yes,"May 26th, 2018"
+Michael George ,5.0,3.0,Yes,"May 25th, 2018"
+Michael George ,1.0,4.0,No,"May 19th, 2018"
+Michael George ,None,None,None,None
+Michael George ,5.0,3.0,Yes,"May 12th, 2018"
+Michael George ,1.0,5.0,No,"May 1st, 2018"
+Michael George ,2.0,3.0,No,"Jul 15th, 2017"
+Michael George ,None,None,None,None
+Michael George ,4.0,5.0,Yes,"Jul 6th, 2017"
+Nate Foster ,5.0,3.0,Yes,"Dec 3rd, 2020"
+Nate Foster ,5.0,3.0,Yes,"Oct 7th, 2020"
+Nate Foster ,5.0,4.0,Yes,"May 27th, 2020"
+Nate Foster ,5.0,4.0,Yes,"May 19th, 2020"
+Nate Foster ,None,None,None,None
+Nate Foster ,5.0,2.0,No,"May 16th, 2020"
+Nate Foster ,5.0,4.0,Yes,"May 5th, 2020"
+Nate Foster ,5.0,4.0,Yes,"Apr 30th, 2020"
+Nate Foster ,None,None,None,None
+Nate Foster ,5.0,4.0,Yes,"Apr 16th, 2020"
+Nate Foster ,5.0,4.0,Yes,"Mar 13th, 2020"
+Nate Foster ,2.0,4.0,No,"Feb 29th, 2020"
+Nate Foster ,None,None,None,None
+Nate Foster ,5.0,4.0,Yes,"Feb 20th, 2020"
+Nate Foster ,5.0,2.0,Yes,"May 22nd, 2018"
+Nate Foster ,5.0,4.0,Yes,"May 3rd, 2018"
+Nate Foster ,None,None,None,None
+Anil Damle ,5.0,1.0,Yes,"Nov 11th, 2019"
+Anil Damle ,5.0,4.0,No,"Mar 31st, 2019"
+Alan Giambattista ,3.0,4.0,Yes,"May 23rd, 2020"
+Alan Giambattista ,4.0,3.0,Yes,"Aug 14th, 2018"
+Alan Giambattista ,4.0,4.0,Yes,"May 18th, 2018"
+Alan Giambattista ,5.0,3.0,Yes,"May 28th, 2017"
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,4.0,3.0,Yes,"Dec 5th, 2016"
+Alan Giambattista ,3.0,4.0,Yes,"May 1st, 2015"
+Alan Giambattista ,3.5,4.0,None,"Jan 3rd, 2015"
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,1.0,5.0,F,"Oct 30th, 2014"
+Alan Giambattista ,3.0,3.0,None,"Jun 29th, 2014"
+Alan Giambattista ,1.0,5.0,None,"May 6th, 2014"
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,2.0,5.0,None,"Dec 31st, 2013"
+Alan Giambattista ,4.0,2.0,None,"Jan 14th, 2010"
+Alan Giambattista ,4.5,4.0,None,"Oct 22nd, 2008"
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,5.0,3.0,None,"Feb 17th, 2008"
+Alan Giambattista ,5.0,2.0,None,"Oct 10th, 2007"
+Alan Giambattista ,4.5,2.0,None,"Mar 5th, 2007"
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,5.0,3.0,None,"Feb 20th, 2006"
+Alan Giambattista ,5.0,3.0,None,"Sep 21st, 2005"
+Alan Giambattista ,5.0,3.0,None,"Oct 31st, 2003"
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,5.0,5.0,None,"Oct 30th, 2003"
+David Albonesi ,5.0,2.0,Yes,"Feb 6th, 2020"
+David Albonesi ,2.0,4.0,No,"Nov 12th, 2019"
+David Albonesi ,5.0,3.0,Yes,"May 22nd, 2019"
+David Albonesi ,5.0,4.0,Yes,"Mar 19th, 2019"
+David Albonesi ,None,None,None,None
+David Albonesi ,5.0,2.0,A+,"Dec 26th, 2017"
+David Albonesi ,4.5,2.0,None,"Dec 28th, 2014"
+David Albonesi ,5.0,1.0,None,"Dec 28th, 2014"
+David Albonesi ,None,None,None,None
+David Albonesi ,4.5,3.0,No,"Apr 27th, 2014"
+David Albonesi ,4.0,2.0,None,"Apr 9th, 2014"
+David Albonesi ,5.0,2.0,Yes,"Feb 15th, 2014"
+David Albonesi ,None,None,None,None
+David Albonesi ,5.0,2.0,No,"Dec 24th, 2013"
+David Albonesi ,4.0,2.0,None,"Dec 20th, 2013"
+David Albonesi ,4.5,2.0,None,"Oct 28th, 2013"
+David Albonesi ,None,None,None,None
+David Albonesi ,4.5,4.0,None,"Jan 5th, 2013"
+David Albonesi ,4.5,3.0,None,"Oct 10th, 2012"
+David Albonesi ,4.5,2.0,None,"Mar 9th, 2012"
+David Albonesi ,None,None,None,None
+David Albonesi ,1.0,5.0,None,"Dec 5th, 2011"
+David Albonesi ,1.0,5.0,None,"Oct 31st, 2011"
+David Albonesi ,4.5,3.0,None,"May 19th, 2011"
+David Albonesi ,None,None,None,None
+Alan Zehnder ,5.0,3.0,Yes,"Oct 9th, 2020"
+Alan Zehnder ,5.0,3.0,Yes,"Oct 9th, 2020"
+Alan Zehnder ,4.0,4.0,Yes,"May 13th, 2020"
+Alan Zehnder ,1.0,4.0,No,"May 9th, 2020"
+Alan Zehnder ,None,None,None,None
+Alan Zehnder ,5.0,1.0,Yes,"Sep 30th, 2015"
+Alan Zehnder ,4.0,1.0,Yes,"Feb 15th, 2014"
+Alan Zehnder ,3.5,1.0,None,"Oct 14th, 2011"
+Alan Zehnder ,None,None,None,None
+Alan Zehnder ,4.5,2.0,None,"May 18th, 2010"
+Alan Zehnder ,5.0,3.0,None,"Jan 9th, 2007"
+Alan Zehnder ,3.0,4.0,None,"Jun 7th, 2005"
+Alan Zehnder ,None,None,None,None
+Alan Zehnder ,3.5,4.0,None,"May 25th, 2005"
+Reyer Sjamaar ,5.0,3.0,Yes,"Dec 3rd, 2020"
+Reyer Sjamaar ,5.0,4.0,Yes,"Apr 11th, 2019"
+Reyer Sjamaar ,1.0,4.0,No,"Feb 14th, 2019"
+Reyer Sjamaar ,2.0,5.0,No,"Jan 7th, 2019"
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,4.0,4.0,Yes,"Dec 14th, 2018"
+Reyer Sjamaar ,3.0,4.0,No,"Nov 26th, 2018"
+Reyer Sjamaar ,4.0,4.0,Yes,"Nov 16th, 2018"
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,4.0,4.0,B+,"Aug 17th, 2018"
+Reyer Sjamaar ,4.0,3.0,Yes,"Jan 25th, 2018"
+Reyer Sjamaar ,2.0,4.0,No,"Jan 25th, 2018"
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,4.0,3.0,Yes,"Dec 1st, 2017"
+Reyer Sjamaar ,2.0,5.0,No,"Apr 5th, 2017"
+Reyer Sjamaar ,5.0,4.0,Yes,"Nov 2nd, 2016"
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,5.0,5.0,Yes,"Aug 9th, 2016"
+Reyer Sjamaar ,5.0,4.0,None,"May 21st, 2016"
+Reyer Sjamaar ,5.0,2.0,None,"Feb 6th, 2010"
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,5.0,3.0,None,"Dec 6th, 2009"
+Reyer Sjamaar ,5.0,4.0,None,"Dec 14th, 2008"
+Reyer Sjamaar ,5.0,3.0,None,"May 27th, 2005"
+Reyer Sjamaar ,None,None,None,None
+Yudong Chen ,4.0,3.0,Yes,"Jan 5th, 2020"
+Yudong Chen ,3.0,2.0,Yes,"Apr 24th, 2019"
+David Easley ,5.0,4.0,Yes,"Feb 11th, 2020"
+David Easley ,5.0,4.0,A-,"Dec 24th, 2019"
+David Easley ,5.0,1.0,Yes,"Mar 3rd, 2018"
+David Easley ,5.0,1.0,Yes,"Dec 27th, 2017"
+David Easley ,None,None,None,None
+David Easley ,5.0,1.0,A+,"Dec 26th, 2017"
+David Easley ,4.0,3.0,A,"Sep 10th, 2015"
+David Easley ,4.5,3.0,A-,"Jul 22nd, 2015"
+David Easley ,None,None,None,None
+David Easley ,5.0,4.0,None,"Mar 1st, 2015"
+David Easley ,3.5,2.0,Yes,"Dec 22nd, 2014"
+David Easley ,5.0,3.0,None,"Aug 2nd, 2012"
+David Easley ,None,None,None,None
+David Easley ,4.5,1.0,None,"Jun 13th, 2010"
+David Easley ,3.0,1.0,None,"May 17th, 2009"
+David Easley ,3.5,4.0,None,"May 19th, 2008"
+David Easley ,None,None,None,None
+David Easley ,4.5,1.0,None,"Apr 6th, 2008"
+David Easley ,4.5,3.0,None,"Sep 6th, 2006"
+David Easley ,4.5,2.0,None,"Jan 25th, 2006"
+David Easley ,None,None,None,None
+David Easley ,4.5,4.0,None,"Jan 28th, 2005"
+David Easley ,5.0,2.0,None,"Jan 21st, 2005"
+David Easley ,4.5,2.0,None,"Jan 16th, 2005"
+David Easley ,None,None,None,None
+David Easley ,4.5,2.0,None,"Jan 6th, 2005"
+Andre Leclair ,2.0,3.0,No,"Oct 7th, 2019"
+Andre Leclair ,2.0,4.0,No,"Jun 8th, 2019"
+Andre Leclair ,1.0,4.0,No,"May 9th, 2019"
+Andre Leclair ,1.0,5.0,No,"May 9th, 2019"
+Andre Leclair ,None,None,None,None
+Andre Leclair ,1.0,5.0,No,"Apr 15th, 2019"
+Andre Leclair ,5.0,5.0,Yes,"May 5th, 2017"
+Andre Leclair ,5.0,3.0,Yes,"Sep 29th, 2016"
+Andre Leclair ,None,None,None,None
+Andre Leclair ,3.0,3.0,A-,"Apr 7th, 2016"
+Andre Leclair ,1.0,2.0,Not sure yet,"Nov 11th, 2014"
+Andre Leclair ,4.0,2.0,Yes,"Feb 15th, 2014"
+Andre Leclair ,None,None,None,None
+Andre Leclair ,4.5,2.0,None,"Dec 18th, 2013"
+Andre Leclair ,4.5,3.0,None,"Jun 20th, 2012"
+Andre Leclair ,4.0,4.0,None,"Jun 5th, 2012"
+Andre Leclair ,None,None,None,None
+Andre Leclair ,3.5,2.0,None,"Apr 15th, 2012"
+Andre Leclair ,4.5,1.0,None,"Apr 11th, 2012"
+Andre Leclair ,4.0,4.0,None,"Jan 30th, 2011"
+Andre Leclair ,None,None,None,None
+Andre Leclair ,1.5,1.0,None,"Mar 9th, 2010"
+Andre Leclair ,3.5,4.0,None,"Dec 22nd, 2009"
+Andre Leclair ,5.0,2.0,None,"Jan 2nd, 2008"
+Andre Leclair ,None,None,None,None
+Andre Leclair ,2.5,3.0,None,"Dec 9th, 2007"
+Alex Townsend ,5.0,4.0,Yes,"Oct 6th, 2020"
+Alex Townsend ,5.0,4.0,A-,"Dec 27th, 2019"
+Alex Townsend ,1.0,5.0,No,"Dec 17th, 2019"
+Alex Townsend ,5.0,4.0,Yes,"Nov 10th, 2019"
+Alex Townsend ,None,None,None,None
+Alex Townsend ,5.0,4.0,Yes,"Jun 6th, 2019"
+Alex Townsend ,5.0,4.0,Yes,"Mar 16th, 2019"
+Alex Townsend ,2.0,4.0,No,"Dec 21st, 2018"
+Alex Townsend ,None,None,None,None
+Alex Townsend ,5.0,4.0,Yes,"Dec 17th, 2018"
+Alex Townsend ,5.0,4.0,Yes,"Dec 15th, 2018"
+Alex Townsend ,5.0,4.0,Yes,"Dec 14th, 2018"
+Alex Townsend ,None,None,None,None
+Alex Townsend ,5.0,3.0,Yes,"Dec 12th, 2018"
+Alex Townsend ,1.0,4.0,No,"Dec 11th, 2018"
+Alex Townsend ,1.0,4.0,No,"Oct 19th, 2018"
+Alex Townsend ,None,None,None,None
+Alex Townsend ,5.0,4.0,Yes,"May 20th, 2018"
+Alex Townsend ,5.0,4.0,Yes,"May 18th, 2018"
+Alex Townsend ,5.0,4.0,Yes,"Apr 15th, 2018"
+Alex Townsend ,None,None,None,None
+David Muller ,5.0,3.0,None,"Dec 17th, 2012"
+David Muller ,4.5,1.0,None,"Dec 13th, 2011"
+David Muller ,1.0,5.0,None,"Apr 1st, 2006"
+Daisy Fan ,5.0,3.0,Yes,"Dec 1st, 2020"
+Daisy Fan ,5.0,3.0,Yes,"Dec 1st, 2020"
+Daisy Fan ,5.0,3.0,Yes,"Jun 1st, 2020"
+Daisy Fan ,5.0,2.0,A,"May 19th, 2020"
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,3.0,Yes,"Apr 15th, 2020"
+Daisy Fan ,5.0,2.0,Yes,"Jun 20th, 2019"
+Daisy Fan ,3.0,3.0,Yes,"Jan 24th, 2019"
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,5.0,No,"Dec 21st, 2018"
+Daisy Fan ,4.0,2.0,A,"Dec 20th, 2018"
+Daisy Fan ,4.0,5.0,B,"Dec 2nd, 2018"
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,3.0,Yes,"Oct 26th, 2018"
+Daisy Fan ,5.0,3.0,A+,"Oct 14th, 2018"
+Daisy Fan ,5.0,3.0,Yes,"Jul 16th, 2018"
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,2.0,Yes,"Mar 10th, 2018"
+Daisy Fan ,3.0,5.0,Yes,"Feb 2nd, 2018"
+Daisy Fan ,5.0,4.0,Yes,"Dec 9th, 2017"
+Daisy Fan ,None,None,None,None
+Daisy Fan ,4.0,3.0,Yes,"Dec 6th, 2017"
+Daisy Fan ,4.0,3.0,Yes,"Nov 15th, 2017"
+Daisy Fan ,4.0,3.0,B+,"Oct 2nd, 2017"
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,4.0,Yes,"Jun 2nd, 2017"
+John Callister ,1.0,3.0,Yes,"Oct 28th, 2020"
+John Callister ,1.0,1.0,No,"Oct 26th, 2020"
+John Callister ,2.0,3.0,No,"Jul 14th, 2020"
+John Callister ,1.0,4.0,No,"Dec 16th, 2019"
+John Callister ,None,None,None,None
+John Callister ,1.0,3.0,Yes,"Dec 13th, 2019"
+John Callister ,5.0,2.0,Yes,"Nov 16th, 2019"
+John Callister ,1.0,2.0,No,"Sep 19th, 2019"
+John Callister ,None,None,None,None
+John Callister ,5.0,1.0,Yes,"Apr 23rd, 2019"
+John Callister ,4.0,3.0,Yes,"Jan 5th, 2019"
+John Callister ,3.0,4.0,Yes,"Dec 28th, 2017"
+John Callister ,None,None,None,None
+John Callister ,1.0,4.0,No,"Oct 31st, 2017"
+John Callister ,3.0,3.0,No,"Aug 17th, 2016"
+John Callister ,5.0,1.0,No,"Jan 28th, 2016"
+John Callister ,None,None,None,None
+John Callister ,4.5,1.0,None,"Sep 25th, 2015"
+John Callister ,4.0,2.0,A,"Jun 10th, 2015"
+John Callister ,3.5,3.0,None,"May 28th, 2015"
+John Callister ,None,None,None,None
+John Callister ,4.0,1.0,None,"May 10th, 2015"
+John Callister ,4.0,1.0,None,"Apr 20th, 2014"
+John Callister ,4.0,2.0,None,"Jan 1st, 2014"
+John Callister ,None,None,None,None
+John Callister ,2.5,3.0,None,"Feb 27th, 2013"
+Carl Poitras ,5.0,3.0,Yes,"Nov 2nd, 2020"
+Carl Poitras ,5.0,3.0,Yes,"Oct 30th, 2020"
+Carl Poitras ,5.0,4.0,Yes,"Oct 30th, 2020"
+Carl Poitras ,5.0,3.0,B+,"Aug 29th, 2020"
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,4.0,Yes,"Aug 6th, 2020"
+Carl Poitras ,1.0,3.0,No,"Dec 15th, 2019"
+Carl Poitras ,1.0,3.0,No,"Nov 21st, 2019"
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,4.0,Yes,"Aug 7th, 2019"
+Carl Poitras ,5.0,4.0,Yes,"Dec 23rd, 2018"
+Carl Poitras ,5.0,4.0,Yes,"Dec 2nd, 2018"
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,2.0,Yes,"Sep 19th, 2018"
+Carl Poitras ,1.0,5.0,No,"May 23rd, 2018"
+Carl Poitras ,3.0,3.0,No,"May 17th, 2018"
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,4.0,Yes,"Nov 15th, 2017"
+Carl Poitras ,5.0,3.0,Yes,"Oct 18th, 2017"
+Carl Poitras ,5.0,4.0,Yes,"Jun 6th, 2017"
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,4.0,Yes,"Mar 23rd, 2017"
+Carl Poitras ,4.0,3.0,Yes,"Dec 1st, 2016"
+Carl Poitras ,5.0,3.0,Yes,"Nov 16th, 2016"
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,3.0,Yes,"Sep 17th, 2016"
+Liam McAllister ,5.0,4.0,Yes,"May 17th, 2019"
+Liam McAllister ,5.0,4.0,None,"Sep 23rd, 2013"
+Liam McAllister ,5.0,4.0,None,"Nov 25th, 2012"
+Liam McAllister ,5.0,4.0,None,"Nov 8th, 2012"
+Liam McAllister ,None,None,None,None
+Liam McAllister ,5.0,5.0,None,"Aug 9th, 2012"
+Liam McAllister ,5.0,3.0,None,"Aug 7th, 2012"
+Liam McAllister ,4.5,3.0,None,"Jul 20th, 2012"
+Liam McAllister ,None,None,None,None
+Andrew Myers ,5.0,5.0,Yes,"May 16th, 2020"
+Andrew Myers ,5.0,4.0,A,"Jan 23rd, 2020"
+Andrew Myers ,5.0,4.0,No,"Dec 21st, 2019"
+Andrew Myers ,4.5,3.0,No,"Apr 19th, 2016"
+Andrew Myers ,None,None,None,None
+Andrew Myers ,5.0,4.0,A,"Apr 7th, 2016"
+Andrew Myers ,5.0,4.0,None,"Mar 30th, 2015"
+Andrew Myers ,4.5,2.0,None,"Dec 18th, 2012"
+Andrew Myers ,None,None,None,None
+Andrew Myers ,4.0,4.0,None,"Sep 8th, 2012"
+Andrew Myers ,3.0,5.0,None,"Apr 5th, 2006"
+Andrew Myers ,3.0,5.0,None,"Feb 23rd, 2006"
+Andrew Myers ,None,None,None,None
+Andrew Myers ,4.5,5.0,None,"Apr 8th, 2005"
+Andrew Myers ,3.0,5.0,None,"Mar 18th, 2004"
+Andrew Myers ,3.5,2.0,None,"Apr 15th, 2003"
+Andrew Myers ,None,None,None,None
+Andrew Myers ,2.5,5.0,None,"Apr 6th, 2003"
+Katya Scheinberg ,1.0,3.0,B,"Oct 14th, 2020"
+Katya Scheinberg ,2.0,4.0,No,"Jun 9th, 2020"
+Katya Scheinberg ,3.0,3.0,No,"May 30th, 2020"
+Katya Scheinberg ,3.0,3.0,No,"May 23rd, 2020"
+Katya Scheinberg ,None,None,None,None
+Ivan Bazarov ,1.0,4.0,No,"Oct 22nd, 2020"
+Ivan Bazarov ,4.5,5.0,None,"Mar 1st, 2016"
+Ivan Bazarov ,4.0,4.0,None,"Mar 1st, 2016"
+Ivan Bazarov ,5.0,4.0,No,"Mar 1st, 2016"
+Ivan Bazarov ,None,None,None,None
+Ivan Bazarov ,1.0,5.0,None,"May 17th, 2011"
+Ivan Bazarov ,4.0,4.0,None,"Dec 27th, 2010"
+Steven Strogatz ,1.0,4.0,No,"Jan 10th, 2020"
+Steven Strogatz ,5.0,3.0,Audit/No Grade,"Dec 30th, 2019"
+Steven Strogatz ,5.0,3.0,A,"Dec 19th, 2018"
+Steven Strogatz ,5.0,2.0,Yes,"Sep 3rd, 2017"
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,3.0,Yes,"Jul 18th, 2017"
+Steven Strogatz ,5.0,3.0,Yes,"Dec 20th, 2016"
+Steven Strogatz ,5.0,3.0,Yes,"Dec 9th, 2016"
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,1.0,Yes,"Dec 8th, 2016"
+Steven Strogatz ,5.0,2.0,A,"Dec 6th, 2016"
+Steven Strogatz ,5.0,3.0,Yes,"Dec 1st, 2016"
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,1.0,Yes,"Nov 30th, 2016"
+Steven Strogatz ,5.0,3.0,Yes,"Nov 29th, 2016"
+Steven Strogatz ,5.0,4.0,Yes,"Nov 29th, 2016"
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,4.0,Yes,"Oct 28th, 2016"
+Steven Strogatz ,3.0,4.0,No,"Dec 8th, 2015"
+Steven Strogatz ,4.5,3.0,A,"May 16th, 2015"
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,2.0,None,"Dec 3rd, 2014"
+Steven Strogatz ,5.0,3.0,None,"Dec 2nd, 2014"
+Steven Strogatz ,5.0,2.0,None,"Jul 20th, 2014"
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,3.0,4.0,None,"Mar 4th, 2014"
+David Delchamps ,5.0,4.0,Yes,"Aug 28th, 2020"
+David Delchamps ,5.0,2.0,Yes,"May 12th, 2020"
+David Delchamps ,1.0,5.0,No,"Feb 11th, 2020"
+David Delchamps ,2.0,4.0,No,"Dec 14th, 2019"
+David Delchamps ,None,None,None,None
+David Delchamps ,3.0,4.0,Yes,"May 17th, 2017"
+David Delchamps ,5.0,3.0,Yes,"Dec 5th, 2016"
+David Delchamps ,1.0,4.0,No,"May 31st, 2016"
+David Delchamps ,None,None,None,None
+David Delchamps ,5.0,2.0,Yes,"Oct 29th, 2014"
+David Delchamps ,5.0,1.0,Yes,"Jan 29th, 2014"
+David Delchamps ,5.0,1.0,None,"Apr 21st, 2013"
+David Delchamps ,None,None,None,None
+David Delchamps ,5.0,4.0,None,"Dec 7th, 2011"
+David Delchamps ,5.0,2.0,None,"Jun 21st, 2008"
+David Delchamps ,5.0,1.0,None,"Sep 8th, 2005"
+David Delchamps ,None,None,None,None
+David Delchamps ,4.0,3.0,None,"Aug 30th, 2005"
+David Delchamps ,5.0,3.0,None,"Jun 10th, 2005"
+David Delchamps ,5.0,2.0,None,"Feb 3rd, 2005"
+David Delchamps ,None,None,None,None
+David Delchamps ,5.0,3.0,None,"Dec 13th, 2003"
+David Delchamps ,5.0,3.0,None,"Nov 13th, 2003"
+David Delchamps ,2.5,1.0,None,"Nov 11th, 2003"
+David Delchamps ,None,None,None,None
+David Delchamps ,4.5,2.0,None,"Oct 29th, 2003"
+Clifford Pollock ,3.0,3.0,Yes,"Jan 22nd, 2020"
+Clifford Pollock ,5.0,3.0,Yes,"Jul 12th, 2016"
+Clifford Pollock ,4.5,4.0,Yes,"Sep 18th, 2015"
+Clifford Pollock ,4.0,2.0,None,"Jun 5th, 2014"
+Clifford Pollock ,None,None,None,None
+Clifford Pollock ,5.0,3.0,None,"Apr 14th, 2014"
+Clifford Pollock ,5.0,3.0,None,"Feb 25th, 2013"
+Clifford Pollock ,4.0,3.0,None,"Oct 29th, 2005"
+Clifford Pollock ,None,None,None,None
+Richard Rand ,2.0,3.0,No,"Jun 1st, 2020"
+Richard Rand ,2.0,3.0,No,"May 11th, 2020"
+Richard Rand ,5.0,3.0,Yes,"May 12th, 2019"
+Richard Rand ,3.0,3.0,A,"Oct 14th, 2018"
+Richard Rand ,None,None,None,None
+Richard Rand ,3.0,4.0,Yes,"Jan 10th, 2018"
+Richard Rand ,5.0,2.0,Yes,"Dec 20th, 2017"
+Richard Rand ,5.0,3.0,Yes,"Dec 1st, 2017"
+Richard Rand ,None,None,None,None
+Richard Rand ,3.5,3.0,B,"Jun 5th, 2015"
+Richard Rand ,4.0,4.0,Yes,"May 22nd, 2015"
+Richard Rand ,5.0,1.0,None,"Dec 24th, 2012"
+Richard Rand ,None,None,None,None
+Richard Rand ,5.0,2.0,None,"Dec 21st, 2012"
+Richard Rand ,5.0,2.0,None,"Oct 30th, 2010"
+Richard Rand ,4.5,5.0,None,"Feb 13th, 2010"
+Richard Rand ,None,None,None,None
+Richard Rand ,2.5,3.0,None,"Jun 9th, 2008"
+Richard Rand ,5.0,3.0,None,"Jun 14th, 2007"
+Richard Rand ,2.0,4.0,None,"Jan 23rd, 2007"
+Richard Rand ,None,None,None,None
+Richard Rand ,4.0,3.0,None,"Dec 2nd, 2006"
+Richard Rand ,5.0,2.0,None,"Oct 24th, 2006"
+Richard Rand ,5.0,1.0,None,"May 18th, 2006"
+Richard Rand ,None,None,None,None
+Richard Rand ,5.0,1.0,None,"Dec 12th, 2004"
+Hadas Ritz ,2.0,5.0,Yes,"Oct 19th, 2020"
+Hadas Ritz ,1.0,4.0,No,"Sep 22nd, 2020"
+Hadas Ritz ,2.0,4.0,No,"Dec 12th, 2019"
+Hadas Ritz ,3.0,5.0,No,"Mar 4th, 2019"
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,3.0,4.0,Yes,"Nov 26th, 2018"
+Hadas Ritz ,2.0,5.0,No,"Feb 20th, 2018"
+Hadas Ritz ,5.0,4.0,Yes,"Feb 2nd, 2018"
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,5.0,4.0,Yes,"Jan 15th, 2018"
+Hadas Ritz ,3.0,5.0,No,"May 5th, 2017"
+Hadas Ritz ,2.0,5.0,No,"Mar 30th, 2017"
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,4.0,3.0,Yes,"Oct 1st, 2016"
+Hadas Ritz ,4.0,2.0,No,"May 2nd, 2016"
+Hadas Ritz ,4.5,2.0,Yes,"Jan 16th, 2016"
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,5.0,2.0,No,"Dec 23rd, 2015"
+Hadas Ritz ,4.0,3.0,B+,"Dec 12th, 2015"
+Hadas Ritz ,5.0,4.0,B,"Nov 13th, 2015"
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,5.0,3.0,No,"Nov 13th, 2014"
+Hadas Ritz ,5.0,3.0,Yes,"Jan 23rd, 2014"
+Hadas Ritz ,5.0,3.0,Yes,"Dec 12th, 2013"
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,4.5,2.0,None,"Dec 6th, 2012"
+"Christopher ""Kit"" Umbach ",3.0,4.0,No,"May 9th, 2018"
+"Christopher ""Kit"" Umbach ",2.0,4.0,No,"Apr 10th, 2018"
+"Christopher ""Kit"" Umbach ",4.5,3.0,None,"Apr 21st, 2015"
+"Christopher ""Kit"" Umbach ",3.5,4.0,None,"Jan 15th, 2015"
+"Christopher ""Kit"" Umbach ",None,None,None,None
+"Christopher ""Kit"" Umbach ",3.0,3.0,None,"Dec 30th, 2011"
+"Christopher ""Kit"" Umbach ",1.0,5.0,None,"May 27th, 2011"
+"Christopher ""Kit"" Umbach ",5.0,2.0,None,"Jan 31st, 2010"
+"Christopher ""Kit"" Umbach ",None,None,None,None
+"Christopher ""Kit"" Umbach ",2.5,4.0,None,"Jan 13th, 2010"
+"Christopher ""Kit"" Umbach ",3.5,4.0,None,"Oct 23rd, 2009"
+"Christopher ""Kit"" Umbach ",5.0,1.0,None,"Dec 16th, 2005"
+"Christopher ""Kit"" Umbach ",None,None,None,None
+Aaron Wagner ,5.0,4.0,Yes,"Dec 19th, 2019"
+Aaron Wagner ,5.0,5.0,Yes,"May 28th, 2019"
+Aaron Wagner ,5.0,5.0,Yes,"May 24th, 2018"
+Aaron Wagner ,5.0,4.0,Yes,"Dec 7th, 2017"
+Aaron Wagner ,None,None,None,None
+Aaron Wagner ,5.0,3.0,A-,"Aug 12th, 2015"
+Aaron Wagner ,5.0,3.0,Yes,"Dec 24th, 2013"
+Aaron Wagner ,5.0,4.0,None,"Dec 5th, 2011"
+Aaron Wagner ,None,None,None,None
+Hakim Weatherspoon ,1.0,4.0,No,"Apr 16th, 2020"
+Hakim Weatherspoon ,3.5,3.0,None,"Jul 22nd, 2015"
+Hakim Weatherspoon ,1.0,5.0,None,"Feb 10th, 2014"
+Hakim Weatherspoon ,1.5,3.0,None,"May 17th, 2013"
+Hakim Weatherspoon ,None,None,None,None
+Hakim Weatherspoon ,3.5,5.0,None,"May 6th, 2013"
+Hakim Weatherspoon ,2.0,5.0,None,"Mar 31st, 2013"
+Hakim Weatherspoon ,4.5,3.0,None,"Mar 19th, 2012"
+Hakim Weatherspoon ,None,None,None,None
+Hakim Weatherspoon ,1.5,4.0,None,"Feb 2nd, 2012"
+Hakim Weatherspoon ,1.0,4.0,None,"Oct 26th, 2011"
+Hakim Weatherspoon ,4.5,2.0,None,"Apr 20th, 2011"
+Hakim Weatherspoon ,None,None,None,None
+Jamol Pender ,5.0,3.0,No,"May 12th, 2020"
+Jamol Pender ,5.0,3.0,Yes,"Feb 12th, 2020"
+Jamol Pender ,5.0,4.0,B+,"Apr 14th, 2017"
+Phoebe Sengers ,4.0,4.0,Yes,"Jan 21st, 2020"
+Phoebe Sengers ,5.0,3.0,Yes,"Dec 12th, 2018"
+Phoebe Sengers ,2.0,1.0,No,"Sep 3rd, 2017"
+Phoebe Sengers ,5.0,2.0,Yes,"Sep 20th, 2016"
+Phoebe Sengers ,None,None,None,None
+Phoebe Sengers ,4.5,3.0,No,"Oct 27th, 2015"
+Phoebe Sengers ,3.0,4.0,No,"Dec 1st, 2014"
+Phoebe Sengers ,5.0,1.0,None,"Jan 7th, 2012"
+Phoebe Sengers ,None,None,None,None
+Phoebe Sengers ,3.0,1.0,None,"Sep 17th, 2005"
+Phoebe Sengers ,4.5,3.0,None,"Dec 19th, 2004"

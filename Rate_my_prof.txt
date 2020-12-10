@@ -29,5 +29,3 @@ view-source:https://www.ratemyprofessors.com/ShowRatings.jsp?tid=307179
 view-source:https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1526046
 view-source:https://www.ratemyprofessors.com/ShowRatings.jsp?tid=782456
 view-source:https://www.ratemyprofessors.com/ShowRatings.jsp?tid=1658929
-
-

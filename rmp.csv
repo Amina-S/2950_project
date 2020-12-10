@@ -1,315 +1,575 @@
 Name,Quality,Difficulty,Would Take Again,Date,Class taught
-Haym Hirsh ,4.0,3.0,Yes,"May 11th, 2020", CS4700
-Haym Hirsh ,4.0,3.0,Yes,"Apr 9th, 2020", CS4700
-Haym Hirsh ,1.0,2.0,No,"Dec 14th, 2019", CS4700
-Haym Hirsh ,1.0,4.0,No,"Nov 12th, 2019", CS4700
-Haym Hirsh ,None,None,None,None,None
-Haym Hirsh ,5.0,3.0,Yes,"Jun 28th, 2019", CS4700
-Haym Hirsh ,1.0,1.0,No,"Jan 31st, 2019", CS4700
-Haym Hirsh ,4.0,2.0,Yes,"May 29th, 2018", CS4700
-Haym Hirsh ,None,None,None,None,None
-Haym Hirsh ,1.0,1.0,Yes,"May 16th, 2018", CS4700
-Haym Hirsh ,1.0,3.0,No,"Jan 9th, 2018", CS5306
-Haym Hirsh ,5.0,3.0,Yes,"Aug 19th, 2017", CS4700
-Haym Hirsh ,None,None,None,None,None
-Haym Hirsh ,5.0,3.0,Yes,"Jun 25th, 2017", CS4700
-Walker White ,5.0,2.0,A,"Apr 28th, 2020", CS11
-Walker White ,5.0,4.0,Yes,"Feb 21st, 2020", CS1110
-Walker White ,5.0,5.0,B-,"Jan 15th, 2020", CS1110
-Walker White ,5.0,4.0,Yes,"Dec 28th, 2019", CS1110
-Walker White ,None,None,None,None,None
-Walker White ,4.0,3.0,Yes,"Dec 5th, 2019", CS1110
-Walker White ,5.0,3.0,Yes,"Nov 26th, 2019", CS1110
-Walker White ,5.0,4.0,Yes,"Apr 19th, 2019", CS1110
-Walker White ,None,None,None,None,None
-Walker White ,5.0,4.0,Yes,"Jan 11th, 2019", CS1110
-Walker White ,4.0,4.0,No,"Jan 11th, 2019", CS1110
-Walker White ,5.0,3.0,Yes,"Jan 3rd, 2019", CS1110
-Walker White ,None,None,None,None,None
-Walker White ,5.0,3.0,A,"Dec 22nd, 2018", CS1110
-Walker White ,5.0,3.0,Yes,"Dec 14th, 2018", CS1110
-Walker White ,4.0,3.0,Yes,"Dec 10th, 2018", CS1110
-Walker White ,None,None,None,None,None
-Walker White ,5.0,3.0,Yes,"Nov 11th, 2018", CS1110
-Walker White ,5.0,3.0,Yes,"Nov 10th, 2018", CS1110
-Walker White ,5.0,4.0,Yes,"Nov 9th, 2018", CS1110
-Walker White ,None,None,None,None,None
-Walker White ,5.0,4.0,Yes,"Nov 4th, 2018", CS1110
-Walker White ,5.0,3.0,Yes,"Oct 22nd, 2018", CS1110
-Walker White ,4.0,5.0,No,"Oct 1st, 2018", CS1110
-Walker White ,None,None,None,None,None
-Walker White ,3.0,5.0,No,"Jul 9th, 2018", CS1110
-David Gries ,5.0,3.0,Yes,"May 23rd, 2020", CS2110
-David Gries ,5.0,4.0,Yes,"May 22nd, 2020", CS2110
-David Gries ,5.0,3.0,Yes,"Mar 12th, 2020", CS2110
-David Gries ,1.0,4.0,No,"Nov 19th, 2019", CS2110
-David Gries ,None,None,None,None,None
-David Gries ,4.0,3.0,Yes,"Jul 23rd, 2019", CS2110
-David Gries ,1.0,3.0,No,"Jun 4th, 2019", CS2110
-David Gries ,4.0,3.0,Yes,"Jan 24th, 2019", CS2110
-David Gries ,None,None,None,None,None
-David Gries ,5.0,3.0,Yes,"Jan 12th, 2019", CS2110
-David Gries ,4.0,4.0,Yes,"Dec 15th, 2018", CS2110
-David Gries ,3.0,3.0,No,"Nov 19th, 2018", CS2110
-David Gries ,None,None,None,None,None
-David Gries ,1.0,3.0,A-,"Feb 21st, 2018", CS2110
-David Gries ,5.0,3.0,Yes,"Dec 28th, 2017", CS2110
-David Gries ,4.0,3.0,No,"Nov 28th, 2017", CS2110
-David Gries ,None,None,None,None,None
-David Gries ,5.0,3.0,Yes,"Aug 18th, 2017", CS2110
-David Gries ,3.0,3.0,Yes,"May 15th, 2017", CS2110
-David Gries ,4.0,3.0,Yes,"Apr 25th, 2017", CS2110
-David Gries ,None,None,None,None,None
-David Gries ,1.0,4.0,No,"Apr 5th, 2017", CS2110
-David Gries ,5.0,2.0,Yes,"Dec 25th, 2016", CS2110
-David Gries ,5.0,4.0,Yes,"Dec 20th, 2016", CS2110
-David Gries ,None,None,None,None,None
-David Gries ,5.0,3.0,Yes,"Nov 6th, 2016", CS2110
-Anne Bracy ,1.0,4.0,No,"Feb 12th, 2020", CS3410
-Anne Bracy ,5.0,4.0,Yes,"Dec 9th, 2019", CS3410
-Anne Bracy ,1.0,4.0,Yes,"Oct 18th, 2019", CS341
-Anne Bracy ,1.0,3.0,No,"Oct 18th, 2019", CS341
-Anne Bracy ,None,None,None,None,None
-Anne Bracy ,5.0,2.0,Yes,"Oct 2nd, 2019", CS1110
-Anne Bracy ,1.0,2.0,No,"Jun 24th, 2019", CS4410
-Anne Bracy ,1.0,5.0,No,"Apr 8th, 2019", CS4410
-Anne Bracy ,None,None,None,None,None
-Anne Bracy ,5.0,4.0,Yes,"Dec 12th, 2018", CS3410
-Anne Bracy ,5.0,5.0,Yes,"Dec 10th, 2018", CS3410
-Anne Bracy ,5.0,4.0,Yes,"Nov 8th, 2018", CS3410
-Anne Bracy ,None,None,None,None,None
-Anne Bracy ,5.0,2.0,Yes,"Aug 13th, 2018", CS1110
-Anne Bracy ,4.0,3.0,Yes,"May 20th, 2018", CS1110
-Anne Bracy ,5.0,4.0,Yes,"May 18th, 2018", CS1110
-Anne Bracy ,None,None,None,None,None
-Anne Bracy ,5.0,2.0,Yes,"May 13th, 2018", CS1110
-Anne Bracy ,5.0,4.0,B+,"Feb 20th, 2018", CS3410
-Anne Bracy ,5.0,4.0,Yes,"Feb 17th, 2018", CS4410
-Anne Bracy ,None,None,None,None,None
-Anne Bracy ,5.0,4.0,A,"Dec 9th, 2017", CS3410
-Anne Bracy ,5.0,5.0,Yes,"Dec 8th, 2017", CS3410
-Anne Bracy ,1.0,5.0,Yes,"Jul 6th, 2017", CS4410
-Anne Bracy ,None,None,None,None,None
-Anne Bracy ,4.0,5.0,Yes,"Jul 6th, 2017", CS3410
-Michael Clarkson ,5.0,2.0,Yes,"Aug 16th, 2020", CS2110
-Michael Clarkson ,4.0,3.0,Yes,"May 23rd, 2020", CS2110
-Michael Clarkson ,5.0,4.0,Yes,"Apr 7th, 2020", CS2110
-Michael Clarkson ,5.0,3.0,Yes,"Feb 6th, 2020", CS3110
-Michael Clarkson ,None,None,None,None,None
-Michael Clarkson ,5.0,4.0,Yes,"Sep 11th, 2019", CS3110
-Michael Clarkson ,5.0,4.0,Yes,"Aug 21st, 2019", CS3110
-Michael Clarkson ,1.0,3.0,No,"Dec 14th, 2018", CS3110
-Michael Clarkson ,None,None,None,None,None
-Michael Clarkson ,5.0,4.0,Yes,"Apr 7th, 2018", CS3110
-Michael Clarkson ,5.0,4.0,Yes,"Jan 23rd, 2018", CS3110
-Michael Clarkson ,5.0,4.0,Yes,"Dec 7th, 2017", CS3110
-Michael Clarkson ,None,None,None,None,None
-Michael Clarkson ,5.0,4.0,No,"Dec 5th, 2017", CS3110
-Michael Clarkson ,5.0,3.0,Yes,"Apr 20th, 2017", CS3110
-Michael George ,4.0,4.0,Yes,"May 23rd, 2020", CS2800
-Michael George ,5.0,4.0,Yes,"May 16th, 2020", CS2800
-Michael George ,1.0,5.0,No,"Apr 18th, 2020", CS2800
-Michael George ,4.0,3.0,Yes,"Jan 23rd, 2020", CS2800
-Michael George ,None,None,None,None,None
-Michael George ,1.0,5.0,No,"Jan 23rd, 2020", CS2800
-Michael George ,1.0,5.0,No,"Sep 4th, 2019", CS2800
-Michael George ,4.0,4.0,Yes,"May 19th, 2019", CS2800
-Michael George ,None,None,None,None,None
-Michael George ,3.0,5.0,No,"May 7th, 2019", CS2800
-Michael George ,3.0,5.0,No,"Dec 15th, 2018", CS2800
-Michael George ,2.0,5.0,No,"Oct 15th, 2018", CS2800
-Michael George ,None,None,None,None,None
-Michael George ,5.0,4.0,No,"Aug 31st, 2018", CS2800
-Michael George ,5.0,3.0,Yes,"Aug 20th, 2018", CS2800
-Michael George ,4.0,4.0,Yes,"May 26th, 2018", CS2800
-Michael George ,None,None,None,None,None
-Michael George ,5.0,3.0,Yes,"May 25th, 2018", CS2800
-Michael George ,1.0,4.0,No,"May 19th, 2018", CS2800
-Michael George ,5.0,3.0,Yes,"May 12th, 2018", CS2800
-Michael George ,None,None,None,None,None
-Michael George ,1.0,5.0,No,"May 1st, 2018", CS2800
-Michael George ,2.0,3.0,No,"Jul 15th, 2017", CS4410
-Michael George ,4.0,5.0,Yes,"Jul 6th, 2017", CS2800
-Michael George ,None,None,None,None,None
-Michael George ,2.0,4.0,No,"Jun 12th, 2017", CS2800
-Nate Foster ,5.0,3.0,Yes,"Oct 7th, 2020", CS4110
-Nate Foster ,5.0,4.0,Yes,"May 27th, 2020", CS3110
-Nate Foster ,5.0,4.0,Yes,"May 19th, 2020", CS3110
-Nate Foster ,5.0,2.0,No,"May 16th, 2020", CS3110
-Nate Foster ,None,None,None,None,None
-Nate Foster ,5.0,4.0,Yes,"May 5th, 2020", CS3110
-Nate Foster ,5.0,4.0,Yes,"Apr 30th, 2020", CS3110
-Nate Foster ,5.0,4.0,Yes,"Apr 16th, 2020", CS3110
-Nate Foster ,None,None,None,None,None
-Nate Foster ,5.0,4.0,Yes,"Mar 13th, 2020", CS3110
-Nate Foster ,2.0,4.0,No,"Feb 29th, 2020", CS3110
-Nate Foster ,5.0,4.0,Yes,"Feb 20th, 2020", CS3110
-Nate Foster ,None,None,None,None,None
-Nate Foster ,5.0,2.0,Yes,"May 22nd, 2018", CS3110
-Nate Foster ,5.0,4.0,Yes,"May 3rd, 2018", CS3110
-Anil Damle ,5.0,1.0,Yes,"Nov 11th, 2019", CS3220
-Anil Damle ,5.0,4.0,No,"Mar 31st, 2019", CS4220
-Alan Giambattista ,3.0,4.0,Yes,"May 23rd, 2020", PHYS2213
-Alan Giambattista ,4.0,3.0,Yes,"Aug 14th, 2018", PHYS2213
-Alan Giambattista ,4.0,4.0,Yes,"May 18th, 2018", PHYS2213
-Alan Giambattista ,5.0,3.0,Yes,"May 28th, 2017", PHYS2213
-Alan Giambattista ,None,None,None,None,None
-Alan Giambattista ,4.0,3.0,Yes,"Dec 5th, 2016", PHYS1101
-Alan Giambattista ,3.0,4.0,Yes,"May 1st, 2015", PHYS1102
-Alan Giambattista ,3.5,4.0,None,"Jan 3rd, 2015", PHYS1101
-Alan Giambattista ,None,None,None,None,None
-Alan Giambattista ,1.0,5.0,F,"Oct 30th, 2014", PHYS213
-Alan Giambattista ,3.0,3.0,None,"Jun 29th, 2014", PHYS1101
-Alan Giambattista ,1.0,5.0,None,"May 6th, 2014", PHYS1112
-Alan Giambattista ,None,None,None,None,None
-Alan Giambattista ,2.0,5.0,None,"Dec 31st, 2013", PHYS1101
-Alan Giambattista ,4.0,2.0,None,"Jan 14th, 2010", PHYS2214
-Alan Giambattista ,4.5,4.0,None,"Oct 22nd, 2008", PHYS2214
-Alan Giambattista ,None,None,None,None,None
-Alan Giambattista ,5.0,3.0,None,"Feb 17th, 2008", PHYS214
-Alan Giambattista ,5.0,2.0,None,"Oct 10th, 2007", PHYS214
-Alan Giambattista ,4.5,2.0,None,"Mar 5th, 2007", PHYS214
-Alan Giambattista ,None,None,None,None,None
-Alan Giambattista ,5.0,3.0,None,"Feb 20th, 2006", PHYS214
-Alan Giambattista ,5.0,3.0,None,"Sep 21st, 2005", PHYS216
-Alan Giambattista ,5.0,3.0,None,"Oct 31st, 2003", PHYS214
-Alan Giambattista ,None,None,None,None,None
-Alan Giambattista ,5.0,5.0,None,"Oct 30th, 2003", PHYS214
-David Albonesi ,5.0,2.0,Yes,"Feb 6th, 2020", ECE2300
-David Albonesi ,2.0,4.0,No,"Nov 12th, 2019", ECE2300
-David Albonesi ,5.0,3.0,Yes,"May 22nd, 2019", ECE1210
-David Albonesi ,5.0,4.0,Yes,"Mar 19th, 2019", ENGRI1210
-David Albonesi ,None,None,None,None,None
-David Albonesi ,5.0,2.0,A+,"Dec 26th, 2017", ECE2300
-David Albonesi ,4.5,2.0,None,"Dec 28th, 2014", ECE2300
-David Albonesi ,5.0,1.0,None,"Dec 28th, 2014", ECE2300
-David Albonesi ,None,None,None,None,None
-David Albonesi ,4.5,3.0,No,"Apr 27th, 2014", ECE2300
-David Albonesi ,4.0,2.0,None,"Apr 9th, 2014", ECE2300
-David Albonesi ,5.0,2.0,Yes,"Feb 15th, 2014", ECE2300
-David Albonesi ,None,None,None,None,None
-David Albonesi ,5.0,2.0,No,"Dec 24th, 2013", ECE2300
-David Albonesi ,4.0,2.0,None,"Dec 20th, 2013", ECE2300
-David Albonesi ,4.5,2.0,None,"Oct 28th, 2013", ECE2300
-David Albonesi ,None,None,None,None,None
-David Albonesi ,4.5,4.0,None,"Jan 5th, 2013", ENGRI1210
-David Albonesi ,4.5,3.0,None,"Oct 10th, 2012", ENGRI1210
-David Albonesi ,4.5,2.0,None,"Mar 9th, 2012", ECE1210
-David Albonesi ,None,None,None,None,None
-David Albonesi ,1.0,5.0,None,"Dec 5th, 2011", ENGRI1210
-David Albonesi ,1.0,5.0,None,"Oct 31st, 2011", ENGRI1210
-David Albonesi ,4.5,3.0,None,"May 19th, 2011", ECE2300
-David Albonesi ,None,None,None,None,None
-Alan Zehnder ,5.0,3.0,Yes,"Oct 9th, 2020", MATH2930
-Alan Zehnder ,5.0,3.0,Yes,"Oct 9th, 2020", MATH2930
-Alan Zehnder ,4.0,4.0,Yes,"May 13th, 2020", MATH2930
-Alan Zehnder ,1.0,4.0,No,"May 9th, 2020", MATH2930
-Alan Zehnder ,None,None,None,None,None
-Alan Zehnder ,5.0,1.0,Yes,"Sep 30th, 2015", MATH2930
-Alan Zehnder ,4.0,1.0,Yes,"Feb 15th, 2014", MATH2930
-Alan Zehnder ,3.5,1.0,None,"Oct 14th, 2011", MATH2930
-Alan Zehnder ,None,None,None,None,None
-Alan Zehnder ,4.5,2.0,None,"May 18th, 2010", MATH2940
-Alan Zehnder ,5.0,3.0,None,"Jan 9th, 2007", ENGRD202
-Alan Zehnder ,3.0,4.0,None,"Jun 7th, 2005", MATH293
-Alan Zehnder ,None,None,None,None,None
-Alan Zehnder ,3.5,4.0,None,"May 25th, 2005", MATH293
-Reyer Sjamaar ,5.0,4.0,Yes,"Apr 11th, 2019", MATH2210
-Reyer Sjamaar ,1.0,4.0,No,"Feb 14th, 2019", MATH1920
-Reyer Sjamaar ,2.0,5.0,No,"Jan 7th, 2019", MATH192
-Reyer Sjamaar ,4.0,4.0,Yes,"Dec 14th, 2018", MATH1920
-Reyer Sjamaar ,None,None,None,None,None
-Reyer Sjamaar ,3.0,4.0,No,"Nov 26th, 2018", MATH1920
-Reyer Sjamaar ,4.0,4.0,Yes,"Nov 16th, 2018", MATH1920
-Reyer Sjamaar ,4.0,4.0,B+,"Aug 17th, 2018", MATH1920
-Reyer Sjamaar ,None,None,None,None,None
-Reyer Sjamaar ,4.0,3.0,Yes,"Jan 25th, 2018", MATH1920
-Reyer Sjamaar ,2.0,4.0,No,"Jan 25th, 2018", MATH1920
-Reyer Sjamaar ,4.0,3.0,Yes,"Dec 1st, 2017", MATH1920
-Reyer Sjamaar ,None,None,None,None,None
-Reyer Sjamaar ,2.0,5.0,No,"Apr 5th, 2017", MATH2210
-Reyer Sjamaar ,5.0,4.0,Yes,"Nov 2nd, 2016", MATH2210
-Reyer Sjamaar ,5.0,5.0,Yes,"Aug 9th, 2016", MATH2240
-Reyer Sjamaar ,None,None,None,None,None
-Reyer Sjamaar ,5.0,4.0,None,"May 21st, 2016", MATH2240
-Reyer Sjamaar ,5.0,2.0,None,"Feb 6th, 2010", MATH2210
-Reyer Sjamaar ,5.0,3.0,None,"Dec 6th, 2009", MATH2210
-Reyer Sjamaar ,None,None,None,None,None
-Reyer Sjamaar ,5.0,4.0,None,"Dec 14th, 2008", MATH4500
-Reyer Sjamaar ,5.0,3.0,None,"May 27th, 2005", MATH651
-David Easley ,5.0,4.0,Yes,"Feb 11th, 2020", ECON6090
-David Easley ,5.0,4.0,A-,"Dec 24th, 2019", ECON6090
-David Easley ,5.0,1.0,Yes,"Mar 3rd, 2018", ECON2040
-David Easley ,5.0,1.0,Yes,"Dec 27th, 2017", CS2850
-David Easley ,None,None,None,None,None
-David Easley ,5.0,1.0,A+,"Dec 26th, 2017", CS2850
-David Easley ,4.0,3.0,A,"Sep 10th, 2015", 6090
-David Easley ,4.5,3.0,A-,"Jul 22nd, 2015", INFO2040
-David Easley ,None,None,None,None,None
-David Easley ,5.0,4.0,None,"Mar 1st, 2015", INFO2040
-David Easley ,3.5,2.0,Yes,"Dec 22nd, 2014", INFO2040
-David Easley ,5.0,3.0,None,"Aug 2nd, 2012", ECON0000
-David Easley ,None,None,None,None,None
-David Easley ,4.5,1.0,None,"Jun 13th, 2010", INFO2040
-David Easley ,3.0,1.0,None,"May 17th, 2009", ECON2040
-David Easley ,3.5,4.0,None,"May 19th, 2008", ECON204
-David Easley ,None,None,None,None,None
-David Easley ,4.5,1.0,None,"Apr 6th, 2008", ECON204
-David Easley ,4.5,3.0,None,"Sep 6th, 2006", ECON301
-David Easley ,4.5,2.0,None,"Jan 25th, 2006", ECON301
-David Easley ,None,None,None,None,None
-David Easley ,4.5,4.0,None,"Jan 28th, 2005", ECON301
-David Easley ,5.0,2.0,None,"Jan 21st, 2005", ECON301
-David Easley ,4.5,2.0,None,"Jan 16th, 2005", ECON301
-David Easley ,None,None,None,None,None
-David Easley ,4.5,2.0,None,"Jan 6th, 2005", ECON301
-Andre Leclair ,2.0,3.0,No,"Oct 7th, 2019", PHYS2218
-Andre Leclair ,2.0,4.0,No,"Jun 8th, 2019", PHYS2218
-Andre Leclair ,1.0,4.0,No,"May 9th, 2019", PHYS2218
-Andre Leclair ,1.0,5.0,No,"May 9th, 2019", PHYS2218
-Andre Leclair ,None,None,None,None,None
-Andre Leclair ,1.0,5.0,No,"Apr 15th, 2019", PHYS2218
-Andre Leclair ,5.0,5.0,Yes,"May 5th, 2017", PHYS1112
-Andre Leclair ,5.0,3.0,Yes,"Sep 29th, 2016", PHYS2218
-Andre Leclair ,None,None,None,None,None
-Andre Leclair ,3.0,3.0,A-,"Apr 7th, 2016", PHYS2218
-Andre Leclair ,1.0,2.0,Not sure yet,"Nov 11th, 2014", PHYS2218
-Andre Leclair ,4.0,2.0,Yes,"Feb 15th, 2014", PHYS3316
-Andre Leclair ,None,None,None,None,None
-Andre Leclair ,4.5,2.0,None,"Dec 18th, 2013", PHYS2218
-Andre Leclair ,4.5,3.0,None,"Jun 20th, 2012", PHYS1112
-Andre Leclair ,4.0,4.0,None,"Jun 5th, 2012", PHYS1112
-Andre Leclair ,None,None,None,None,None
-Andre Leclair ,3.5,2.0,None,"Apr 15th, 2012", PHYS1112
-Andre Leclair ,4.5,1.0,None,"Apr 11th, 2012", PHYS1112
-Andre Leclair ,4.0,4.0,None,"Jan 30th, 2011", PHYS2213
-Andre Leclair ,None,None,None,None,None
-Andre Leclair ,1.5,1.0,None,"Mar 9th, 2010", PHY1112
-Andre Leclair ,3.5,4.0,None,"Dec 22nd, 2009", PHYS1101
-Andre Leclair ,5.0,2.0,None,"Jan 2nd, 2008", PHYS112
-Andre Leclair ,None,None,None,None,None
-Andre Leclair ,2.5,3.0,None,"Dec 9th, 2007", PHYS112
-Alex Townsend ,5.0,4.0,Yes,"Oct 6th, 2020", MATH2940
-Alex Townsend ,5.0,4.0,A-,"Dec 27th, 2019", MATH2940
-Alex Townsend ,1.0,5.0,No,"Dec 17th, 2019", MATH2940
-Alex Townsend ,5.0,4.0,Yes,"Nov 10th, 2019", MATH2930
-Alex Townsend ,None,None,None,None,None
-Alex Townsend ,5.0,4.0,Yes,"Jun 6th, 2019", MATH2930
-Alex Townsend ,5.0,4.0,Yes,"Mar 16th, 2019", MATH2930
-Alex Townsend ,2.0,4.0,No,"Dec 21st, 2018", MATH2930
-Alex Townsend ,None,None,None,None,None
-Alex Townsend ,5.0,4.0,Yes,"Dec 17th, 2018", MATH2930
-Alex Townsend ,5.0,4.0,Yes,"Dec 15th, 2018", MATH2930
-Alex Townsend ,5.0,4.0,Yes,"Dec 14th, 2018", MATH2930
-Alex Townsend ,None,None,None,None,None
-Alex Townsend ,5.0,3.0,Yes,"Dec 12th, 2018", MATH2930
-Alex Townsend ,1.0,4.0,No,"Dec 11th, 2018", MATH2930
-Alex Townsend ,1.0,4.0,No,"Oct 19th, 2018", MATH2930
-Alex Townsend ,None,None,None,None,None
-Alex Townsend ,5.0,4.0,Yes,"May 20th, 2018", MATH2220
-Alex Townsend ,5.0,4.0,Yes,"May 18th, 2018", MATH2220
-Alex Townsend ,5.0,4.0,Yes,"Apr 15th, 2018", MATH2220
-Alex Townsend ,None,None,None,None,None
-David Muller ,5.0,3.0,None,"Dec 17th, 2012", AEP6610
-David Muller ,4.5,1.0,None,"Dec 13th, 2011", AEP6610
-David Muller ,1.0,5.0,None,"Apr 1st, 2006", PHYS112
+Haym Hirsh ,4.0,3.0,None,None
+Haym Hirsh ,4.0,3.0,None,None
+Haym Hirsh ,1.0,2.0,None,None
+Haym Hirsh ,1.0,4.0,None,None
+Haym Hirsh ,None,None,None,None
+Haym Hirsh ,5.0,3.0,None,None
+Haym Hirsh ,1.0,1.0,None,None
+Haym Hirsh ,4.0,2.0,None,None
+Haym Hirsh ,None,None,None,None
+Haym Hirsh ,1.0,1.0,None,None
+Haym Hirsh ,1.0,3.0,None,None
+Haym Hirsh ,5.0,3.0,None,None
+Haym Hirsh ,None,None,None,None
+Haym Hirsh ,5.0,3.0,None,None
+Walker White ,5.0,2.0,None,None
+Walker White ,5.0,4.0,None,None
+Walker White ,5.0,5.0,None,None
+Walker White ,5.0,4.0,None,None
+Walker White ,None,None,None,None
+Walker White ,4.0,3.0,None,None
+Walker White ,5.0,3.0,None,None
+Walker White ,5.0,4.0,None,None
+Walker White ,None,None,None,None
+Walker White ,5.0,4.0,None,None
+Walker White ,4.0,4.0,None,None
+Walker White ,5.0,3.0,None,None
+Walker White ,None,None,None,None
+Walker White ,5.0,3.0,None,None
+Walker White ,5.0,3.0,None,None
+Walker White ,4.0,3.0,None,None
+Walker White ,None,None,None,None
+Walker White ,5.0,3.0,None,None
+Walker White ,5.0,3.0,None,None
+Walker White ,5.0,4.0,None,None
+Walker White ,None,None,None,None
+Walker White ,5.0,4.0,None,None
+Walker White ,5.0,3.0,None,None
+Walker White ,4.0,5.0,None,None
+Walker White ,None,None,None,None
+Walker White ,3.0,5.0,None,None
+David Gries ,5.0,3.0,None,None
+David Gries ,5.0,4.0,None,None
+David Gries ,5.0,3.0,None,None
+David Gries ,1.0,4.0,None,None
+David Gries ,None,None,None,None
+David Gries ,4.0,3.0,None,None
+David Gries ,1.0,3.0,None,None
+David Gries ,4.0,3.0,None,None
+David Gries ,None,None,None,None
+David Gries ,5.0,3.0,None,None
+David Gries ,4.0,4.0,None,None
+David Gries ,3.0,3.0,None,None
+David Gries ,None,None,None,None
+David Gries ,1.0,3.0,None,None
+David Gries ,5.0,3.0,None,None
+David Gries ,4.0,3.0,None,None
+David Gries ,None,None,None,None
+David Gries ,5.0,3.0,None,None
+David Gries ,3.0,3.0,None,None
+David Gries ,4.0,3.0,None,None
+David Gries ,None,None,None,None
+David Gries ,1.0,4.0,None,None
+David Gries ,5.0,2.0,None,None
+David Gries ,5.0,4.0,None,None
+David Gries ,None,None,None,None
+David Gries ,5.0,3.0,None,None
+Anne Bracy ,5.0,5.0,None,None
+Anne Bracy ,1.0,4.0,None,None
+Anne Bracy ,5.0,4.0,None,None
+Anne Bracy ,1.0,4.0,None,None
+Anne Bracy ,None,None,None,None
+Anne Bracy ,1.0,3.0,None,None
+Anne Bracy ,5.0,2.0,None,None
+Anne Bracy ,1.0,2.0,None,None
+Anne Bracy ,None,None,None,None
+Anne Bracy ,1.0,5.0,None,None
+Anne Bracy ,5.0,4.0,None,None
+Anne Bracy ,5.0,5.0,None,None
+Anne Bracy ,None,None,None,None
+Anne Bracy ,5.0,4.0,None,None
+Anne Bracy ,5.0,2.0,None,None
+Anne Bracy ,4.0,3.0,None,None
+Anne Bracy ,None,None,None,None
+Anne Bracy ,5.0,4.0,None,None
+Anne Bracy ,5.0,2.0,None,None
+Anne Bracy ,5.0,4.0,None,None
+Anne Bracy ,None,None,None,None
+Anne Bracy ,5.0,4.0,None,None
+Anne Bracy ,5.0,4.0,None,None
+Anne Bracy ,5.0,5.0,None,None
+Anne Bracy ,None,None,None,None
+Anne Bracy ,1.0,5.0,None,None
+Michael Clarkson ,5.0,5.0,None,None
+Michael Clarkson ,5.0,2.0,None,None
+Michael Clarkson ,4.0,3.0,None,None
+Michael Clarkson ,5.0,4.0,None,None
+Michael Clarkson ,None,None,None,None
+Michael Clarkson ,5.0,3.0,None,None
+Michael Clarkson ,5.0,4.0,None,None
+Michael Clarkson ,5.0,4.0,None,None
+Michael Clarkson ,None,None,None,None
+Michael Clarkson ,1.0,3.0,None,None
+Michael Clarkson ,5.0,4.0,None,None
+Michael Clarkson ,5.0,4.0,None,None
+Michael Clarkson ,None,None,None,None
+Michael Clarkson ,5.0,4.0,None,None
+Michael Clarkson ,5.0,4.0,None,None
+Michael Clarkson ,5.0,3.0,None,None
+Michael Clarkson ,None,None,None,None
+Michael George ,4.0,3.0,None,None
+Michael George ,4.0,4.0,None,None
+Michael George ,5.0,4.0,None,None
+Michael George ,1.0,5.0,None,None
+Michael George ,None,None,None,None
+Michael George ,4.0,3.0,None,None
+Michael George ,1.0,5.0,None,None
+Michael George ,1.0,5.0,None,None
+Michael George ,None,None,None,None
+Michael George ,4.0,4.0,None,None
+Michael George ,3.0,5.0,None,None
+Michael George ,3.0,5.0,None,None
+Michael George ,None,None,None,None
+Michael George ,2.0,5.0,None,None
+Michael George ,5.0,4.0,None,None
+Michael George ,5.0,3.0,None,None
+Michael George ,None,None,None,None
+Michael George ,4.0,4.0,None,None
+Michael George ,5.0,3.0,None,None
+Michael George ,1.0,4.0,None,None
+Michael George ,None,None,None,None
+Michael George ,5.0,3.0,None,None
+Michael George ,1.0,5.0,None,None
+Michael George ,2.0,3.0,None,None
+Michael George ,None,None,None,None
+Michael George ,4.0,5.0,None,None
+Nate Foster ,5.0,3.0,None,None
+Nate Foster ,5.0,3.0,None,None
+Nate Foster ,5.0,4.0,None,None
+Nate Foster ,5.0,4.0,None,None
+Nate Foster ,None,None,None,None
+Nate Foster ,5.0,2.0,None,None
+Nate Foster ,5.0,4.0,None,None
+Nate Foster ,5.0,4.0,None,None
+Nate Foster ,None,None,None,None
+Nate Foster ,5.0,4.0,None,None
+Nate Foster ,5.0,4.0,None,None
+Nate Foster ,2.0,4.0,None,None
+Nate Foster ,None,None,None,None
+Nate Foster ,5.0,4.0,None,None
+Nate Foster ,5.0,2.0,None,None
+Nate Foster ,5.0,4.0,None,None
+Nate Foster ,None,None,None,None
+Anil Damle ,5.0,1.0,None,None
+Anil Damle ,5.0,4.0,None,None
+Alan Giambattista ,3.0,4.0,None,None
+Alan Giambattista ,4.0,3.0,None,None
+Alan Giambattista ,4.0,4.0,None,None
+Alan Giambattista ,5.0,3.0,None,None
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,4.0,3.0,None,None
+Alan Giambattista ,3.0,4.0,None,None
+Alan Giambattista ,3.5,4.0,None,None
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,1.0,5.0,None,None
+Alan Giambattista ,3.0,3.0,None,None
+Alan Giambattista ,1.0,5.0,None,None
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,2.0,5.0,None,None
+Alan Giambattista ,4.0,2.0,None,None
+Alan Giambattista ,4.5,4.0,None,None
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,5.0,3.0,None,None
+Alan Giambattista ,5.0,2.0,None,None
+Alan Giambattista ,4.5,2.0,None,None
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,5.0,3.0,None,None
+Alan Giambattista ,5.0,3.0,None,None
+Alan Giambattista ,5.0,3.0,None,None
+Alan Giambattista ,None,None,None,None
+Alan Giambattista ,5.0,5.0,None,None
+David Albonesi ,5.0,2.0,None,None
+David Albonesi ,2.0,4.0,None,None
+David Albonesi ,5.0,3.0,None,None
+David Albonesi ,5.0,4.0,None,None
+David Albonesi ,None,None,None,None
+David Albonesi ,5.0,2.0,None,None
+David Albonesi ,4.5,2.0,None,None
+David Albonesi ,5.0,1.0,None,None
+David Albonesi ,None,None,None,None
+David Albonesi ,4.5,3.0,None,None
+David Albonesi ,4.0,2.0,None,None
+David Albonesi ,5.0,2.0,None,None
+David Albonesi ,None,None,None,None
+David Albonesi ,5.0,2.0,None,None
+David Albonesi ,4.0,2.0,None,None
+David Albonesi ,4.5,2.0,None,None
+David Albonesi ,None,None,None,None
+David Albonesi ,4.5,4.0,None,None
+David Albonesi ,4.5,3.0,None,None
+David Albonesi ,4.5,2.0,None,None
+David Albonesi ,None,None,None,None
+David Albonesi ,1.0,5.0,None,None
+David Albonesi ,1.0,5.0,None,None
+David Albonesi ,4.5,3.0,None,None
+David Albonesi ,None,None,None,None
+Alan Zehnder ,5.0,3.0,None,None
+Alan Zehnder ,5.0,3.0,None,None
+Alan Zehnder ,4.0,4.0,None,None
+Alan Zehnder ,1.0,4.0,None,None
+Alan Zehnder ,None,None,None,None
+Alan Zehnder ,5.0,1.0,None,None
+Alan Zehnder ,4.0,1.0,None,None
+Alan Zehnder ,3.5,1.0,None,None
+Alan Zehnder ,None,None,None,None
+Alan Zehnder ,4.5,2.0,None,None
+Alan Zehnder ,5.0,3.0,None,None
+Alan Zehnder ,3.0,4.0,None,None
+Alan Zehnder ,None,None,None,None
+Alan Zehnder ,3.5,4.0,None,None
+Reyer Sjamaar ,5.0,3.0,None,None
+Reyer Sjamaar ,5.0,4.0,None,None
+Reyer Sjamaar ,1.0,4.0,None,None
+Reyer Sjamaar ,2.0,5.0,None,None
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,4.0,4.0,None,None
+Reyer Sjamaar ,3.0,4.0,None,None
+Reyer Sjamaar ,4.0,4.0,None,None
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,4.0,4.0,None,None
+Reyer Sjamaar ,4.0,3.0,None,None
+Reyer Sjamaar ,2.0,4.0,None,None
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,4.0,3.0,None,None
+Reyer Sjamaar ,2.0,5.0,None,None
+Reyer Sjamaar ,5.0,4.0,None,None
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,5.0,5.0,None,None
+Reyer Sjamaar ,5.0,4.0,None,None
+Reyer Sjamaar ,5.0,2.0,None,None
+Reyer Sjamaar ,None,None,None,None
+Reyer Sjamaar ,5.0,3.0,None,None
+Reyer Sjamaar ,5.0,4.0,None,None
+Reyer Sjamaar ,5.0,3.0,None,None
+Reyer Sjamaar ,None,None,None,None
+Yudong Chen ,4.0,3.0,None,None
+Yudong Chen ,3.0,2.0,None,None
+David Easley ,5.0,4.0,None,None
+David Easley ,5.0,4.0,None,None
+David Easley ,5.0,1.0,None,None
+David Easley ,5.0,1.0,None,None
+David Easley ,None,None,None,None
+David Easley ,5.0,1.0,None,None
+David Easley ,4.0,3.0,None,None
+David Easley ,4.5,3.0,None,None
+David Easley ,None,None,None,None
+David Easley ,5.0,4.0,None,None
+David Easley ,3.5,2.0,None,None
+David Easley ,5.0,3.0,None,None
+David Easley ,None,None,None,None
+David Easley ,4.5,1.0,None,None
+David Easley ,3.0,1.0,None,None
+David Easley ,3.5,4.0,None,None
+David Easley ,None,None,None,None
+David Easley ,4.5,1.0,None,None
+David Easley ,4.5,3.0,None,None
+David Easley ,4.5,2.0,None,None
+David Easley ,None,None,None,None
+David Easley ,4.5,4.0,None,None
+David Easley ,5.0,2.0,None,None
+David Easley ,4.5,2.0,None,None
+David Easley ,None,None,None,None
+David Easley ,4.5,2.0,None,None
+Andre Leclair ,2.0,3.0,None,None
+Andre Leclair ,2.0,4.0,None,None
+Andre Leclair ,1.0,4.0,None,None
+Andre Leclair ,1.0,5.0,None,None
+Andre Leclair ,None,None,None,None
+Andre Leclair ,1.0,5.0,None,None
+Andre Leclair ,5.0,5.0,None,None
+Andre Leclair ,5.0,3.0,None,None
+Andre Leclair ,None,None,None,None
+Andre Leclair ,3.0,3.0,None,None
+Andre Leclair ,1.0,2.0,None,None
+Andre Leclair ,4.0,2.0,None,None
+Andre Leclair ,None,None,None,None
+Andre Leclair ,4.5,2.0,None,None
+Andre Leclair ,4.5,3.0,None,None
+Andre Leclair ,4.0,4.0,None,None
+Andre Leclair ,None,None,None,None
+Andre Leclair ,3.5,2.0,None,None
+Andre Leclair ,4.5,1.0,None,None
+Andre Leclair ,4.0,4.0,None,None
+Andre Leclair ,None,None,None,None
+Andre Leclair ,1.5,1.0,None,None
+Andre Leclair ,3.5,4.0,None,None
+Andre Leclair ,5.0,2.0,None,None
+Andre Leclair ,None,None,None,None
+Andre Leclair ,2.5,3.0,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,1.0,5.0,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,None,None,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,2.0,4.0,None,None
+Alex Townsend ,None,None,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,None,None,None,None
+Alex Townsend ,5.0,3.0,None,None
+Alex Townsend ,1.0,4.0,None,None
+Alex Townsend ,1.0,4.0,None,None
+Alex Townsend ,None,None,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,5.0,4.0,None,None
+Alex Townsend ,None,None,None,None
+David Muller ,5.0,3.0,None,None
+David Muller ,4.5,1.0,None,None
+David Muller ,1.0,5.0,None,None
+Daisy Fan ,5.0,3.0,None,None
+Daisy Fan ,5.0,3.0,None,None
+Daisy Fan ,5.0,3.0,None,None
+Daisy Fan ,5.0,2.0,None,None
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,3.0,None,None
+Daisy Fan ,5.0,2.0,None,None
+Daisy Fan ,3.0,3.0,None,None
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,5.0,None,None
+Daisy Fan ,4.0,2.0,None,None
+Daisy Fan ,4.0,5.0,None,None
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,3.0,None,None
+Daisy Fan ,5.0,3.0,None,None
+Daisy Fan ,5.0,3.0,None,None
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,2.0,None,None
+Daisy Fan ,3.0,5.0,None,None
+Daisy Fan ,5.0,4.0,None,None
+Daisy Fan ,None,None,None,None
+Daisy Fan ,4.0,3.0,None,None
+Daisy Fan ,4.0,3.0,None,None
+Daisy Fan ,4.0,3.0,None,None
+Daisy Fan ,None,None,None,None
+Daisy Fan ,5.0,4.0,None,None
+John Callister ,1.0,3.0,None,None
+John Callister ,1.0,1.0,None,None
+John Callister ,2.0,3.0,None,None
+John Callister ,1.0,4.0,None,None
+John Callister ,None,None,None,None
+John Callister ,1.0,3.0,None,None
+John Callister ,5.0,2.0,None,None
+John Callister ,1.0,2.0,None,None
+John Callister ,None,None,None,None
+John Callister ,5.0,1.0,None,None
+John Callister ,4.0,3.0,None,None
+John Callister ,3.0,4.0,None,None
+John Callister ,None,None,None,None
+John Callister ,1.0,4.0,None,None
+John Callister ,3.0,3.0,None,None
+John Callister ,5.0,1.0,None,None
+John Callister ,None,None,None,None
+John Callister ,4.5,1.0,None,None
+John Callister ,4.0,2.0,None,None
+John Callister ,3.5,3.0,None,None
+John Callister ,None,None,None,None
+John Callister ,4.0,1.0,None,None
+John Callister ,4.0,1.0,None,None
+John Callister ,4.0,2.0,None,None
+John Callister ,None,None,None,None
+John Callister ,2.5,3.0,None,None
+Carl Poitras ,5.0,3.0,None,None
+Carl Poitras ,5.0,3.0,None,None
+Carl Poitras ,5.0,4.0,None,None
+Carl Poitras ,5.0,3.0,None,None
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,4.0,None,None
+Carl Poitras ,1.0,3.0,None,None
+Carl Poitras ,1.0,3.0,None,None
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,4.0,None,None
+Carl Poitras ,5.0,4.0,None,None
+Carl Poitras ,5.0,4.0,None,None
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,2.0,None,None
+Carl Poitras ,1.0,5.0,None,None
+Carl Poitras ,3.0,3.0,None,None
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,4.0,None,None
+Carl Poitras ,5.0,3.0,None,None
+Carl Poitras ,5.0,4.0,None,None
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,4.0,None,None
+Carl Poitras ,4.0,3.0,None,None
+Carl Poitras ,5.0,3.0,None,None
+Carl Poitras ,None,None,None,None
+Carl Poitras ,5.0,3.0,None,None
+Liam McAllister ,5.0,4.0,None,None
+Liam McAllister ,5.0,4.0,None,None
+Liam McAllister ,5.0,4.0,None,None
+Liam McAllister ,5.0,4.0,None,None
+Liam McAllister ,None,None,None,None
+Liam McAllister ,5.0,5.0,None,None
+Liam McAllister ,5.0,3.0,None,None
+Liam McAllister ,4.5,3.0,None,None
+Liam McAllister ,None,None,None,None
+Andrew Myers ,5.0,5.0,None,None
+Andrew Myers ,5.0,4.0,None,None
+Andrew Myers ,5.0,4.0,None,None
+Andrew Myers ,4.5,3.0,None,None
+Andrew Myers ,None,None,None,None
+Andrew Myers ,5.0,4.0,None,None
+Andrew Myers ,5.0,4.0,None,None
+Andrew Myers ,4.5,2.0,None,None
+Andrew Myers ,None,None,None,None
+Andrew Myers ,4.0,4.0,None,None
+Andrew Myers ,3.0,5.0,None,None
+Andrew Myers ,3.0,5.0,None,None
+Andrew Myers ,None,None,None,None
+Andrew Myers ,4.5,5.0,None,None
+Andrew Myers ,3.0,5.0,None,None
+Andrew Myers ,3.5,2.0,None,None
+Andrew Myers ,None,None,None,None
+Andrew Myers ,2.5,5.0,None,None
+Katya Scheinberg ,1.0,3.0,None,None
+Katya Scheinberg ,2.0,4.0,None,None
+Katya Scheinberg ,3.0,3.0,None,None
+Katya Scheinberg ,3.0,3.0,None,None
+Katya Scheinberg ,None,None,None,None
+Ivan Bazarov ,1.0,4.0,None,None
+Ivan Bazarov ,4.5,5.0,None,None
+Ivan Bazarov ,4.0,4.0,None,None
+Ivan Bazarov ,5.0,4.0,None,None
+Ivan Bazarov ,None,None,None,None
+Ivan Bazarov ,1.0,5.0,None,None
+Ivan Bazarov ,4.0,4.0,None,None
+Steven Strogatz ,1.0,4.0,None,None
+Steven Strogatz ,5.0,3.0,None,None
+Steven Strogatz ,5.0,3.0,None,None
+Steven Strogatz ,5.0,2.0,None,None
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,3.0,None,None
+Steven Strogatz ,5.0,3.0,None,None
+Steven Strogatz ,5.0,3.0,None,None
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,1.0,None,None
+Steven Strogatz ,5.0,2.0,None,None
+Steven Strogatz ,5.0,3.0,None,None
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,1.0,None,None
+Steven Strogatz ,5.0,3.0,None,None
+Steven Strogatz ,5.0,4.0,None,None
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,4.0,None,None
+Steven Strogatz ,3.0,4.0,None,None
+Steven Strogatz ,4.5,3.0,None,None
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,5.0,2.0,None,None
+Steven Strogatz ,5.0,3.0,None,None
+Steven Strogatz ,5.0,2.0,None,None
+Steven Strogatz ,None,None,None,None
+Steven Strogatz ,3.0,4.0,None,None
+David Delchamps ,5.0,4.0,None,None
+David Delchamps ,5.0,2.0,None,None
+David Delchamps ,1.0,5.0,None,None
+David Delchamps ,2.0,4.0,None,None
+David Delchamps ,None,None,None,None
+David Delchamps ,3.0,4.0,None,None
+David Delchamps ,5.0,3.0,None,None
+David Delchamps ,1.0,4.0,None,None
+David Delchamps ,None,None,None,None
+David Delchamps ,5.0,2.0,None,None
+David Delchamps ,5.0,1.0,None,None
+David Delchamps ,5.0,1.0,None,None
+David Delchamps ,None,None,None,None
+David Delchamps ,5.0,4.0,None,None
+David Delchamps ,5.0,2.0,None,None
+David Delchamps ,5.0,1.0,None,None
+David Delchamps ,None,None,None,None
+David Delchamps ,4.0,3.0,None,None
+David Delchamps ,5.0,3.0,None,None
+David Delchamps ,5.0,2.0,None,None
+David Delchamps ,None,None,None,None
+David Delchamps ,5.0,3.0,None,None
+David Delchamps ,5.0,3.0,None,None
+David Delchamps ,2.5,1.0,None,None
+David Delchamps ,None,None,None,None
+David Delchamps ,4.5,2.0,None,None
+Clifford Pollock ,3.0,3.0,None,None
+Clifford Pollock ,5.0,3.0,None,None
+Clifford Pollock ,4.5,4.0,None,None
+Clifford Pollock ,4.0,2.0,None,None
+Clifford Pollock ,None,None,None,None
+Clifford Pollock ,5.0,3.0,None,None
+Clifford Pollock ,5.0,3.0,None,None
+Clifford Pollock ,4.0,3.0,None,None
+Clifford Pollock ,None,None,None,None
+Richard Rand ,2.0,3.0,None,None
+Richard Rand ,2.0,3.0,None,None
+Richard Rand ,5.0,3.0,None,None
+Richard Rand ,3.0,3.0,None,None
+Richard Rand ,None,None,None,None
+Richard Rand ,3.0,4.0,None,None
+Richard Rand ,5.0,2.0,None,None
+Richard Rand ,5.0,3.0,None,None
+Richard Rand ,None,None,None,None
+Richard Rand ,3.5,3.0,None,None
+Richard Rand ,4.0,4.0,None,None
+Richard Rand ,5.0,1.0,None,None
+Richard Rand ,None,None,None,None
+Richard Rand ,5.0,2.0,None,None
+Richard Rand ,5.0,2.0,None,None
+Richard Rand ,4.5,5.0,None,None
+Richard Rand ,None,None,None,None
+Richard Rand ,2.5,3.0,None,None
+Richard Rand ,5.0,3.0,None,None
+Richard Rand ,2.0,4.0,None,None
+Richard Rand ,None,None,None,None
+Richard Rand ,4.0,3.0,None,None
+Richard Rand ,5.0,2.0,None,None
+Richard Rand ,5.0,1.0,None,None
+Richard Rand ,None,None,None,None
+Richard Rand ,5.0,1.0,None,None
+Hadas Ritz ,2.0,5.0,None,None
+Hadas Ritz ,1.0,4.0,None,None
+Hadas Ritz ,2.0,4.0,None,None
+Hadas Ritz ,3.0,5.0,None,None
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,3.0,4.0,None,None
+Hadas Ritz ,2.0,5.0,None,None
+Hadas Ritz ,5.0,4.0,None,None
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,5.0,4.0,None,None
+Hadas Ritz ,3.0,5.0,None,None
+Hadas Ritz ,2.0,5.0,None,None
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,4.0,3.0,None,None
+Hadas Ritz ,4.0,2.0,None,None
+Hadas Ritz ,4.5,2.0,None,None
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,5.0,2.0,None,None
+Hadas Ritz ,4.0,3.0,None,None
+Hadas Ritz ,5.0,4.0,None,None
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,5.0,3.0,None,None
+Hadas Ritz ,5.0,3.0,None,None
+Hadas Ritz ,5.0,3.0,None,None
+Hadas Ritz ,None,None,None,None
+Hadas Ritz ,4.5,2.0,None,None
+"Christopher ""Kit"" Umbach ",3.0,4.0,None,None
+"Christopher ""Kit"" Umbach ",2.0,4.0,None,None
+"Christopher ""Kit"" Umbach ",4.5,3.0,None,None
+"Christopher ""Kit"" Umbach ",3.5,4.0,None,None
+"Christopher ""Kit"" Umbach ",None,None,None,None
+"Christopher ""Kit"" Umbach ",3.0,3.0,None,None
+"Christopher ""Kit"" Umbach ",1.0,5.0,None,None
+"Christopher ""Kit"" Umbach ",5.0,2.0,None,None
+"Christopher ""Kit"" Umbach ",None,None,None,None
+"Christopher ""Kit"" Umbach ",2.5,4.0,None,None
+"Christopher ""Kit"" Umbach ",3.5,4.0,None,None
+"Christopher ""Kit"" Umbach ",5.0,1.0,None,None
+"Christopher ""Kit"" Umbach ",None,None,None,None
+Aaron Wagner ,5.0,4.0,None,None
+Aaron Wagner ,5.0,5.0,None,None
+Aaron Wagner ,5.0,5.0,None,None
+Aaron Wagner ,5.0,4.0,None,None
+Aaron Wagner ,None,None,None,None
+Aaron Wagner ,5.0,3.0,None,None
+Aaron Wagner ,5.0,3.0,None,None
+Aaron Wagner ,5.0,4.0,None,None
+Aaron Wagner ,None,None,None,None

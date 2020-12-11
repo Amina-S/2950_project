@@ -1,17 +1,18 @@
-Name,Quality,Difficulty,Would Take Again,Date,Class taught
+Professor,Quality,Difficulty,Would Take Again,Date,Class taught
+Haym Hirsh ,4.0,3.0,Yes,"Dec 11th, 2020", CS4700
 Haym Hirsh ,4.0,3.0,Yes,"May 11th, 2020", CS4700
 Haym Hirsh ,4.0,3.0,Yes,"Apr 9th, 2020", CS4700
 Haym Hirsh ,1.0,2.0,No,"Dec 14th, 2019", CS4700
-Haym Hirsh ,1.0,4.0,No,"Nov 12th, 2019", CS4700
 Haym Hirsh ,None,None,None,None,None
+Haym Hirsh ,1.0,4.0,No,"Nov 12th, 2019", CS4700
 Haym Hirsh ,5.0,3.0,Yes,"Jun 28th, 2019", CS4700
 Haym Hirsh ,1.0,1.0,No,"Jan 31st, 2019", CS4700
-Haym Hirsh ,4.0,2.0,Yes,"May 29th, 2018", CS4700
 Haym Hirsh ,None,None,None,None,None
+Haym Hirsh ,4.0,2.0,Yes,"May 29th, 2018", CS4700
 Haym Hirsh ,1.0,1.0,Yes,"May 16th, 2018", CS4700
 Haym Hirsh ,1.0,3.0,No,"Jan 9th, 2018", CS5306
-Haym Hirsh ,5.0,3.0,Yes,"Aug 19th, 2017", CS4700
 Haym Hirsh ,None,None,None,None,None
+Haym Hirsh ,5.0,3.0,Yes,"Aug 19th, 2017", CS4700
 Haym Hirsh ,5.0,3.0,Yes,"Jun 25th, 2017", CS4700
 Walker White ,5.0,2.0,A,"Apr 28th, 2020", CS11
 Walker White ,5.0,4.0,Yes,"Feb 21st, 2020", CS1110
@@ -477,6 +478,32 @@ Steven Strogatz ,5.0,3.0,None,"Dec 2nd, 2014", MATH
 Steven Strogatz ,5.0,2.0,None,"Jul 20th, 2014", MAE5790
 Steven Strogatz ,None,None,None,None,None
 Steven Strogatz ,3.0,4.0,None,"Mar 4th, 2014", MATH2930
+David Delchamps ,5.0,4.0,Yes,"Aug 28th, 2020", ECE2200
+David Delchamps ,5.0,2.0,Yes,"May 12th, 2020", ECE4271
+David Delchamps ,1.0,5.0,No,"Feb 11th, 2020", ECE2200
+David Delchamps ,2.0,4.0,No,"Dec 14th, 2019", ECE2200
+David Delchamps ,None,None,None,None,None
+David Delchamps ,3.0,4.0,Yes,"May 17th, 2017", ECE4250
+David Delchamps ,5.0,3.0,Yes,"Dec 5th, 2016", ECE3250
+David Delchamps ,1.0,4.0,No,"May 31st, 2016", ECE5210
+David Delchamps ,None,None,None,None,None
+David Delchamps ,5.0,2.0,Yes,"Oct 29th, 2014", ECE3250
+David Delchamps ,5.0,1.0,Yes,"Jan 29th, 2014", EE521FALL1995
+David Delchamps ,5.0,1.0,None,"Apr 21st, 2013", EE301
+David Delchamps ,None,None,None,None,None
+David Delchamps ,5.0,4.0,None,"Dec 7th, 2011", ECE3250
+David Delchamps ,5.0,2.0,None,"Jun 21st, 2008", ENGRI126
+David Delchamps ,5.0,1.0,None,"Sep 8th, 2005", ECE301493521
+David Delchamps ,None,None,None,None,None
+David Delchamps ,4.0,3.0,None,"Aug 30th, 2005", EE301
+David Delchamps ,5.0,3.0,None,"Jun 10th, 2005", ECE301
+David Delchamps ,5.0,2.0,None,"Feb 3rd, 2005", ECE493
+David Delchamps ,None,None,None,None,None
+David Delchamps ,5.0,3.0,None,"Dec 13th, 2003", ECE301302
+David Delchamps ,5.0,3.0,None,"Nov 13th, 2003", ECE301
+David Delchamps ,2.5,1.0,None,"Nov 11th, 2003", ECE211
+David Delchamps ,None,None,None,None,None
+David Delchamps ,4.5,2.0,None,"Oct 29th, 2003", ECE301
 Clifford Pollock ,3.0,3.0,Yes,"Jan 22nd, 2020", ECE2100
 Clifford Pollock ,5.0,3.0,Yes,"Jul 12th, 2016", ECE3030
 Clifford Pollock ,4.5,4.0,Yes,"Sep 18th, 2015", ECE2100
@@ -589,3 +616,55 @@ Phoebe Sengers ,3.0,1.0,None,"Sep 17th, 2005", INFO130
 Phoebe Sengers ,4.5,3.0,None,"Dec 19th, 2004", STS387
 Ronald Dinapoli ,5.0,2.0,None,"Apr 18th, 2010", CS2024
 Ronald Dinapoli ,3.5,3.0,None,"Jan 18th, 2009", CS2024
+Thomas Ruttledge ,5.0,5.0,Yes,"Aug 9th, 2019", CHEM2510
+Thomas Ruttledge ,3.0,4.0,No,"Aug 8th, 2019", CHEM3580
+Thomas Ruttledge ,3.0,4.0,No,"Aug 8th, 2019", CHEM3580
+Thomas Ruttledge ,2.0,5.0,Yes,"Jul 30th, 2019", CHEM3580
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,2.0,5.0,No,"Jun 26th, 2019", CHEM3580
+Thomas Ruttledge ,3.0,3.0,No,"Jun 20th, 2019", CHEM3580
+Thomas Ruttledge ,1.0,4.0,No,"May 31st, 2019", CHEM3580
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,5.0,4.0,Yes,"May 28th, 2019", CHEM3580
+Thomas Ruttledge ,3.0,4.0,Yes,"May 28th, 2019", CHEM2510
+Thomas Ruttledge ,2.0,5.0,No,"May 18th, 2019", CHEM3580
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,1.0,5.0,No,"Apr 12th, 2019", CHEM3580
+Thomas Ruttledge ,5.0,1.0,Yes,"Mar 30th, 2019", CHEM1150
+Thomas Ruttledge ,1.0,5.0,No,"Mar 19th, 2019", CHEM3580
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,5.0,3.0,Yes,"Jan 31st, 2019", CHEM1150
+Thomas Ruttledge ,1.0,5.0,No,"Dec 20th, 2018", CHEM2510
+Thomas Ruttledge ,1.0,4.0,No,"Dec 19th, 2018", CHEM2510
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,5.0,4.0,Yes,"Sep 12th, 2018", CHEM0000
+Thomas Ruttledge ,2.0,5.0,No,"Jun 19th, 2018", CHEM2510
+Thomas Ruttledge ,5.0,5.0,Yes,"Jun 6th, 2018", CHEM3580AND2510
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,4.0,4.0,Yes,"May 30th, 2018", CHEM3580
+Jose Martinez ,5.0,2.0,Yes,"May 27th, 2019", ECE3140
+Jose Martinez ,2.0,4.0,No,"May 11th, 2019", ECE3140
+Jose Martinez ,3.0,4.0,No,"Apr 30th, 2019", ECE3140
+Jose Martinez ,4.0,5.0,Yes,"Jun 5th, 2018", ECE2400
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,4.0,5.0,Yes,"Jun 5th, 2018", ECE2400
+Jose Martinez ,3.0,4.0,Yes,"May 19th, 2017", ECE2400
+Jose Martinez ,3.0,3.0,None,"May 23rd, 2015", ECE3140
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,4.5,4.0,None,"Oct 26th, 2011", ECE2300
+Jose Martinez ,1.0,5.0,None,"May 10th, 2010", ECE2300
+Jose Martinez ,2.0,5.0,None,"May 13th, 2009", ECE2300
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,4.5,4.0,None,"Mar 24th, 2009", ECE2300
+Jose Martinez ,1.0,5.0,None,"Jun 18th, 2008", ECE230
+Jose Martinez ,2.5,5.0,None,"Apr 4th, 2008", ECE230
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,2.0,5.0,None,"Apr 4th, 2008", ECE230
+Jose Martinez ,4.5,4.0,None,"May 6th, 2004", ECE475
+Jose Martinez ,5.0,3.0,None,"Feb 14th, 2004", ECE475
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,5.0,4.0,None,"Nov 11th, 2003", 475
+Jose Martinez ,1.0,5.0,None,"Nov 4th, 2003", ECE475
+Jose Martinez ,4.5,4.0,None,"Nov 3rd, 2003", ECE475
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,1.0,3.0,None,"Nov 3rd, 2003", ECE475

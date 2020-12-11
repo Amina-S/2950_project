@@ -1,49 +1,47 @@
-https://piazza.com/stats/report/jpsr26zgbrg5jr, SP19
-https://piazza.com/stats/report/k5cl9xriyay7aj, SP20
-https://piazza.com/stats/report/jkxicfekmfi2em, FA18
-https://piazza.com/stats/report/jzvdbdbddq53q7, FA19
-https://piazza.com/stats/report/jr6syijk26k70m, SP19
-https://piazza.com/stats/report/jzwt141w6cg1z, FA19
-https://piazza.com/stats/report/jqh8v8nenii15c, SP19
-https://piazza.com/stats/report/jkicpptazff3e6, FA18
-https://piazza.com/stats/report/jz0itlyfrva503, FA19
-https://piazza.com/stats/report/jh80xv01kf01r8, FA18
-https://piazza.com/stats/report/jr8439yglym3md, SP19
-https://piazza.com/stats/report/jw5fogy7st54ts, SP19
-https://piazza.com/stats/report/k4d6qy5ybin2f4, SP20
-https://piazza.com/stats/report/jq52a4bel0r5ec, SP19
-https://piazza.com/stats/report/joq1huj6i3m5oe, SP20
-https://piazza.com/stats/report/jk01z84hqzs2y0, FA18
-https://piazza.com/stats/report/k5dfdqflysq1fp, FA19
-https://piazza.com/stats/report/k7ywn9eyz7z70e, SP20
-https://piazza.com/stats/report/jk01z84hqzs2y0, FA18
-https://piazza.com/stats/report/jwgv9dnbjii6ju, FA19
-https://piazza.com/stats/report/jw5fogy7st54ts, FA19
-https://piazza.com/stats/report/jzd8jvv6nsg3sy, FA19
-https://piazza.com/stats/report/k5ofiy0fdn351d, SP20
-https://piazza.com/stats/report/kbwox96ms2y3z1, SU20
-https://piazza.com/stats/report/kbqllfmoji74r6, SU20
-https://piazza.com/stats/report/jr6epm4rk6p4vk, SP19
-https://piazza.com/stats/report/k5eh0c04nur545, SP20
-https://piazza.com/stats/report/jkv19gmz6to5o0, FA18
-https://piazza.com/stats/report/jzw4t7fvstw7gg, FA19
-https://piazza.com/stats/report/k4rgcb6o3m136u, SP20
-https://piazza.com/stats/report/k5o5xfg188c47a, SP20
-https://piazza.com/stats/report/k574c3l9y31pa, SP20
-https://piazza.com/stats/report/jzd8jvv6nsg3sy, FA19
-https://piazza.com/stats/report/k5x7tcu6z5m4wy, SP20
-https://piazza.com/stats/report/jr2jxl5q5l3kb, SP19
-https://piazza.com/stats/report/jzd8jvv6nsg3sy, FA19
-https://piazza.com/stats/report/k3uzfldmnyd7c1, SP20
-https://piazza.com/stats/report/jl5bb0i5tg8hn, FA18
-https://piazza.com/stats/report/jzk7smzzlk06lq, FA19
-https://piazza.com/stats/report/jzn6e6qz9x71di, FA19
-https://piazza.com/stats/report/k8d75oi4188ol, SP20
-https://piazza.com/stats/report/k5olg9cdxlr3hn, SP20
-https://piazza.com/stats/report/jzu8hw5x5d962o, FA19
-https://piazza.com/stats/report/jr3smt7pw363hn, SP19
-https://piazza.com/stats/report/k5ddubs24md3tn, SP20
-https://piazza.com/stats/report/jkik8szzba1o2, FA18
-https://piazza.com/stats/report/j6cymmfp3fc39s, FA17
-https://piazza.com/stats/report/jc4mdhfovei2qj, SP18
-https://piazza.com/stats/report/jktvqzqnu185q9, FA18
+https://piazza.com/stats/report/jpsr26zgbrg5jr, SP19, "Alan Giambattista"
+https://piazza.com/stats/report/k5cl9xriyay7aj, SP20, "Alan Zehnder"
+https://piazza.com/stats/report/jkxicfekmfi2em, FA18, "Reyer Sjamaar"
+https://piazza.com/stats/report/jzvdbdbddq53q7, FA19, "Yudong Chen"
+https://piazza.com/stats/report/jr6syijk26k70m, SP19, "David Albonesi"
+https://piazza.com/stats/report/jzwt141w6cg1z, FA19, "Anil Damle"
+https://piazza.com/stats/report/jqh8v8nenii15c, SP19, "Michael George"
+https://piazza.com/stats/report/jkicpptazff3e6, FA18, "Anne Bracy"
+https://piazza.com/stats/report/jz0itlyfrva503, FA19, "David Easley"
+https://piazza.com/stats/report/jh80xv01kf01r8, FA18, "Alex Townsend"
+https://piazza.com/stats/report/jr8439yglym3md, SP19, "Andre Leclair"
+https://piazza.com/stats/report/jw5fogy7st54ts, SP19, "Adrian Lewis"
+https://piazza.com/stats/report/k4d6qy5ybin2f4, SP20, "Haym Hirsh"
+https://piazza.com/stats/report/jq52a4bel0r5ec, SP19, "David Gries"
+https://piazza.com/stats/report/joq1huj6i3m5oe, SP20, "Ronald Dinapoli"
+https://piazza.com/stats/report/jk01z84hqzs2y0, FA18, "Walker White"
+https://piazza.com/stats/report/k5dfdqflysq1fp, SP19, "Jose Martinez"
+https://piazza.com/stats/report/k7ywn9eyz7z70e, SP20, "Tom Ruttledge"
+https://piazza.com/stats/report/jk01z84hqzs2y0, FA18, "Walker White"
+https://piazza.com/stats/report/jwgv9dnbjii6ju, FA19, "David Gries"
+https://piazza.com/stats/report/jw5fogy7st54ts, FA19, "Alex Townsend"
+https://piazza.com/stats/report/jzd8jvv6nsg3sy, FA19, "Ivan Bazarov"
+https://piazza.com/stats/report/k5ofiy0fdn351d, SP20, "Daisy Fan"
+https://piazza.com/stats/report/kbwox96ms2y3z1, SP20, "Jamol Pender"
+https://piazza.com/stats/report/kbqllfmoji74r6, SP20, "Alan Zehnder"
+https://piazza.com/stats/report/jr6epm4rk6p4vk, SP19, "Liam McAllister"
+https://piazza.com/stats/report/k5eh0c04nur545, SP20, "Andrew Myers"
+https://piazza.com/stats/report/jkv19gmz6to5o0, FA18, "Anne Bracy"
+https://piazza.com/stats/report/jzw4t7fvstw7gg, FA19, "Andrew Myers"
+https://piazza.com/stats/report/k4rgcb6o3m136u, SP20, "David Gries"
+https://piazza.com/stats/report/k5o5xfg188c47a, SP20, "Michael George"
+https://piazza.com/stats/report/k574c3l9y31pa, SP20, "Katya Scheinberg"
+https://piazza.com/stats/report/jzd8jvv6nsg3sy, FA19, "Ivan Bazarov"
+https://piazza.com/stats/report/k5x7tcu6z5m4wy, SP20,"Richard Rand"
+https://piazza.com/stats/report/jr2jxl5q5l3kb, SP19, "Hadas Ritz"
+https://piazza.com/stats/report/k3uzfldmnyd7c1, SP20, "Alan Giambattista"
+https://piazza.com/stats/report/jl5bb0i5tg8hn, FA18, "Christopher ""Kit"" Umbach "
+https://piazza.com/stats/report/jzk7smzzlk06lq, FA19, "Aaron Wagner"
+https://piazza.com/stats/report/jzn6e6qz9x71di, FA19, "Michael George"
+https://piazza.com/stats/report/k8d75oi4188ol, SP20, "Clifford Pollock"
+https://piazza.com/stats/report/k5olg9cdxlr3hn, SP20, "David Delchamps"
+https://piazza.com/stats/report/jzu8hw5x5d962o, FA19, "Steven Strogatz"
+https://piazza.com/stats/report/jr3smt7pw363hn, SP19, "Hakim Weatherspoon"
+https://piazza.com/stats/report/jkik8szzba1o2, FA18, "Phoebe Sengers"
+https://piazza.com/stats/report/j6cymmfp3fc39s, FA17, "Walker White"
+https://piazza.com/stats/report/jc4mdhfovei2qj, SP18, "David Gries"
+https://piazza.com/stats/report/jktvqzqnu185q9, FA18, "Michael George"

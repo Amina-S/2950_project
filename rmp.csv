@@ -108,32 +108,32 @@ Michael Clarkson ,5.0,4.0,Yes,"Dec 7th, 2017", CS3110
 Michael Clarkson ,5.0,4.0,No,"Dec 5th, 2017", CS3110
 Michael Clarkson ,5.0,3.0,Yes,"Apr 20th, 2017", CS3110
 Michael Clarkson ,None,None,None,None,None
+Michael George ,1.0,5.0,No,"Dec 10th, 2020", CS2800
 Michael George ,4.0,3.0,Yes,"Dec 3rd, 2020", CS2800
 Michael George ,4.0,4.0,Yes,"May 23rd, 2020", CS2800
 Michael George ,5.0,4.0,Yes,"May 16th, 2020", CS2800
-Michael George ,1.0,5.0,No,"Apr 18th, 2020", CS2800
 Michael George ,None,None,None,None,None
+Michael George ,1.0,5.0,No,"Apr 18th, 2020", CS2800
 Michael George ,4.0,3.0,Yes,"Jan 23rd, 2020", CS2800
 Michael George ,1.0,5.0,No,"Jan 23rd, 2020", CS2800
-Michael George ,1.0,5.0,No,"Sep 4th, 2019", CS2800
 Michael George ,None,None,None,None,None
+Michael George ,1.0,5.0,No,"Sep 4th, 2019", CS2800
 Michael George ,4.0,4.0,Yes,"May 19th, 2019", CS2800
 Michael George ,3.0,5.0,No,"May 7th, 2019", CS2800
-Michael George ,3.0,5.0,No,"Dec 15th, 2018", CS2800
 Michael George ,None,None,None,None,None
+Michael George ,3.0,5.0,No,"Dec 15th, 2018", CS2800
 Michael George ,2.0,5.0,No,"Oct 15th, 2018", CS2800
 Michael George ,5.0,4.0,No,"Aug 31st, 2018", CS2800
-Michael George ,5.0,3.0,Yes,"Aug 20th, 2018", CS2800
 Michael George ,None,None,None,None,None
+Michael George ,5.0,3.0,Yes,"Aug 20th, 2018", CS2800
 Michael George ,4.0,4.0,Yes,"May 26th, 2018", CS2800
 Michael George ,5.0,3.0,Yes,"May 25th, 2018", CS2800
-Michael George ,1.0,4.0,No,"May 19th, 2018", CS2800
 Michael George ,None,None,None,None,None
+Michael George ,1.0,4.0,No,"May 19th, 2018", CS2800
 Michael George ,5.0,3.0,Yes,"May 12th, 2018", CS2800
 Michael George ,1.0,5.0,No,"May 1st, 2018", CS2800
-Michael George ,2.0,3.0,No,"Jul 15th, 2017", CS4410
 Michael George ,None,None,None,None,None
-Michael George ,4.0,5.0,Yes,"Jul 6th, 2017", CS2800
+Michael George ,2.0,3.0,No,"Jul 15th, 2017", CS4410
 Nate Foster ,5.0,3.0,Yes,"Dec 3rd, 2020", CS3110
 Nate Foster ,5.0,3.0,Yes,"Oct 7th, 2020", CS4110
 Nate Foster ,5.0,4.0,Yes,"May 27th, 2020", CS3110
@@ -243,6 +243,19 @@ Reyer Sjamaar ,5.0,3.0,None,"Dec 6th, 2009", MATH2210
 Reyer Sjamaar ,5.0,4.0,None,"Dec 14th, 2008", MATH4500
 Reyer Sjamaar ,5.0,3.0,None,"May 27th, 2005", MATH651
 Reyer Sjamaar ,None,None,None,None,None
+Adrian Lewis ,3.0,3.0,Yes,"Jun 8th, 2019", MATH2940
+Adrian Lewis ,4.0,4.0,No,"Jan 18th, 2018", ORIE3300
+Adrian Lewis ,5.0,3.0,Yes,"Dec 28th, 2017", ORIE3300
+Adrian Lewis ,4.5,3.0,None,"May 26th, 2015", ORIE3300
+Adrian Lewis ,None,None,None,None,None
+Adrian Lewis ,4.0,4.0,B,"Jan 25th, 2015", ORIE3300
+Adrian Lewis ,1.0,5.0,None,"Dec 23rd, 2006", OR320
+Adrian Lewis ,4.5,3.0,None,"Dec 21st, 2006", ORIE320
+Adrian Lewis ,None,None,None,None,None
+Adrian Lewis ,5.0,2.0,None,"Apr 6th, 2006", OR320
+Adrian Lewis ,5.0,2.0,None,"Dec 14th, 2005", OR320
+Adrian Lewis ,5.0,3.0,None,"Nov 15th, 2005", ORIE320
+Adrian Lewis ,None,None,None,None,None
 Yudong Chen ,4.0,3.0,Yes,"Jan 5th, 2020", ENGRD2700
 Yudong Chen ,3.0,2.0,Yes,"Apr 24th, 2019", ENGRD2700
 David Easley ,5.0,4.0,Yes,"Feb 11th, 2020", ECON6090
@@ -464,32 +477,6 @@ Steven Strogatz ,5.0,3.0,None,"Dec 2nd, 2014", MATH
 Steven Strogatz ,5.0,2.0,None,"Jul 20th, 2014", MAE5790
 Steven Strogatz ,None,None,None,None,None
 Steven Strogatz ,3.0,4.0,None,"Mar 4th, 2014", MATH2930
-David Delchamps ,5.0,4.0,Yes,"Aug 28th, 2020", ECE2200
-David Delchamps ,5.0,2.0,Yes,"May 12th, 2020", ECE4271
-David Delchamps ,1.0,5.0,No,"Feb 11th, 2020", ECE2200
-David Delchamps ,2.0,4.0,No,"Dec 14th, 2019", ECE2200
-David Delchamps ,None,None,None,None,None
-David Delchamps ,3.0,4.0,Yes,"May 17th, 2017", ECE4250
-David Delchamps ,5.0,3.0,Yes,"Dec 5th, 2016", ECE3250
-David Delchamps ,1.0,4.0,No,"May 31st, 2016", ECE5210
-David Delchamps ,None,None,None,None,None
-David Delchamps ,5.0,2.0,Yes,"Oct 29th, 2014", ECE3250
-David Delchamps ,5.0,1.0,Yes,"Jan 29th, 2014", EE521FALL1995
-David Delchamps ,5.0,1.0,None,"Apr 21st, 2013", EE301
-David Delchamps ,None,None,None,None,None
-David Delchamps ,5.0,4.0,None,"Dec 7th, 2011", ECE3250
-David Delchamps ,5.0,2.0,None,"Jun 21st, 2008", ENGRI126
-David Delchamps ,5.0,1.0,None,"Sep 8th, 2005", ECE301493521
-David Delchamps ,None,None,None,None,None
-David Delchamps ,4.0,3.0,None,"Aug 30th, 2005", EE301
-David Delchamps ,5.0,3.0,None,"Jun 10th, 2005", ECE301
-David Delchamps ,5.0,2.0,None,"Feb 3rd, 2005", ECE493
-David Delchamps ,None,None,None,None,None
-David Delchamps ,5.0,3.0,None,"Dec 13th, 2003", ECE301302
-David Delchamps ,5.0,3.0,None,"Nov 13th, 2003", ECE301
-David Delchamps ,2.5,1.0,None,"Nov 11th, 2003", ECE211
-David Delchamps ,None,None,None,None,None
-David Delchamps ,4.5,2.0,None,"Oct 29th, 2003", ECE301
 Clifford Pollock ,3.0,3.0,Yes,"Jan 22nd, 2020", ECE2100
 Clifford Pollock ,5.0,3.0,Yes,"Jul 12th, 2016", ECE3030
 Clifford Pollock ,4.5,4.0,Yes,"Sep 18th, 2015", ECE2100
@@ -600,3 +587,5 @@ Phoebe Sengers ,5.0,1.0,None,"Jan 7th, 2012", INFO1300
 Phoebe Sengers ,None,None,None,None,None
 Phoebe Sengers ,3.0,1.0,None,"Sep 17th, 2005", INFO130
 Phoebe Sengers ,4.5,3.0,None,"Dec 19th, 2004", STS387
+Ronald Dinapoli ,5.0,2.0,None,"Apr 18th, 2010", CS2024
+Ronald Dinapoli ,3.5,3.0,None,"Jan 18th, 2009", CS2024

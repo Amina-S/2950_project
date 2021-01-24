@@ -1,0 +1,670 @@
+Professor,Quality,Difficulty,Would Take Again,Date,Class taught
+Haym Hirsh ,4.0,3.0,Yes,"Dec 11th, 2020", CS4700
+Haym Hirsh ,4.0,3.0,Yes,"May 11th, 2020", CS4700
+Haym Hirsh ,4.0,3.0,Yes,"Apr 9th, 2020", CS4700
+Haym Hirsh ,1.0,2.0,No,"Dec 14th, 2019", CS4700
+Haym Hirsh ,None,None,None,None,None
+Haym Hirsh ,1.0,4.0,No,"Nov 12th, 2019", CS4700
+Haym Hirsh ,5.0,3.0,Yes,"Jun 28th, 2019", CS4700
+Haym Hirsh ,1.0,1.0,No,"Jan 31st, 2019", CS4700
+Haym Hirsh ,None,None,None,None,None
+Haym Hirsh ,4.0,2.0,Yes,"May 29th, 2018", CS4700
+Haym Hirsh ,1.0,1.0,Yes,"May 16th, 2018", CS4700
+Haym Hirsh ,1.0,3.0,No,"Jan 9th, 2018", CS5306
+Haym Hirsh ,None,None,None,None,None
+Haym Hirsh ,5.0,3.0,Yes,"Aug 19th, 2017", CS4700
+Haym Hirsh ,5.0,3.0,Yes,"Jun 25th, 2017", CS4700
+Walker White ,5.0,2.0,A,"Apr 28th, 2020", CS11
+Walker White ,5.0,4.0,Yes,"Feb 21st, 2020", CS1110
+Walker White ,5.0,5.0,B-,"Jan 15th, 2020", CS1110
+Walker White ,5.0,4.0,Yes,"Dec 28th, 2019", CS1110
+Walker White ,None,None,None,None,None
+Walker White ,4.0,3.0,Yes,"Dec 5th, 2019", CS1110
+Walker White ,5.0,3.0,Yes,"Nov 26th, 2019", CS1110
+Walker White ,5.0,4.0,Yes,"Apr 19th, 2019", CS1110
+Walker White ,None,None,None,None,None
+Walker White ,5.0,4.0,Yes,"Jan 11th, 2019", CS1110
+Walker White ,4.0,4.0,No,"Jan 11th, 2019", CS1110
+Walker White ,5.0,3.0,Yes,"Jan 3rd, 2019", CS1110
+Walker White ,None,None,None,None,None
+Walker White ,5.0,3.0,A,"Dec 22nd, 2018", CS1110
+Walker White ,5.0,3.0,Yes,"Dec 14th, 2018", CS1110
+Walker White ,4.0,3.0,Yes,"Dec 10th, 2018", CS1110
+Walker White ,None,None,None,None,None
+Walker White ,5.0,3.0,Yes,"Nov 11th, 2018", CS1110
+Walker White ,5.0,3.0,Yes,"Nov 10th, 2018", CS1110
+Walker White ,5.0,4.0,Yes,"Nov 9th, 2018", CS1110
+Walker White ,None,None,None,None,None
+Walker White ,5.0,4.0,Yes,"Nov 4th, 2018", CS1110
+Walker White ,5.0,3.0,Yes,"Oct 22nd, 2018", CS1110
+Walker White ,4.0,5.0,No,"Oct 1st, 2018", CS1110
+Walker White ,None,None,None,None,None
+Walker White ,3.0,5.0,No,"Jul 9th, 2018", CS1110
+David Gries ,5.0,3.0,Yes,"May 23rd, 2020", CS2110
+David Gries ,5.0,4.0,Yes,"May 22nd, 2020", CS2110
+David Gries ,5.0,3.0,Yes,"Mar 12th, 2020", CS2110
+David Gries ,1.0,4.0,No,"Nov 19th, 2019", CS2110
+David Gries ,None,None,None,None,None
+David Gries ,4.0,3.0,Yes,"Jul 23rd, 2019", CS2110
+David Gries ,1.0,3.0,No,"Jun 4th, 2019", CS2110
+David Gries ,4.0,3.0,Yes,"Jan 24th, 2019", CS2110
+David Gries ,None,None,None,None,None
+David Gries ,5.0,3.0,Yes,"Jan 12th, 2019", CS2110
+David Gries ,4.0,4.0,Yes,"Dec 15th, 2018", CS2110
+David Gries ,3.0,3.0,No,"Nov 19th, 2018", CS2110
+David Gries ,None,None,None,None,None
+David Gries ,1.0,3.0,A-,"Feb 21st, 2018", CS2110
+David Gries ,5.0,3.0,Yes,"Dec 28th, 2017", CS2110
+David Gries ,4.0,3.0,No,"Nov 28th, 2017", CS2110
+David Gries ,None,None,None,None,None
+David Gries ,5.0,3.0,Yes,"Aug 18th, 2017", CS2110
+David Gries ,3.0,3.0,Yes,"May 15th, 2017", CS2110
+David Gries ,4.0,3.0,Yes,"Apr 25th, 2017", CS2110
+David Gries ,None,None,None,None,None
+David Gries ,1.0,4.0,No,"Apr 5th, 2017", CS2110
+David Gries ,5.0,2.0,Yes,"Dec 25th, 2016", CS2110
+David Gries ,5.0,4.0,Yes,"Dec 20th, 2016", CS2110
+David Gries ,None,None,None,None,None
+David Gries ,5.0,3.0,Yes,"Nov 6th, 2016", CS2110
+Anne Bracy ,5.0,5.0,Yes,"Nov 26th, 2020", CS3410
+Anne Bracy ,1.0,4.0,No,"Feb 12th, 2020", CS3410
+Anne Bracy ,5.0,4.0,Yes,"Dec 9th, 2019", CS3410
+Anne Bracy ,1.0,4.0,Yes,"Oct 18th, 2019", CS341
+Anne Bracy ,None,None,None,None,None
+Anne Bracy ,1.0,3.0,No,"Oct 18th, 2019", CS341
+Anne Bracy ,5.0,2.0,Yes,"Oct 2nd, 2019", CS1110
+Anne Bracy ,1.0,2.0,No,"Jun 24th, 2019", CS4410
+Anne Bracy ,None,None,None,None,None
+Anne Bracy ,1.0,5.0,No,"Apr 8th, 2019", CS4410
+Anne Bracy ,5.0,4.0,Yes,"Dec 12th, 2018", CS3410
+Anne Bracy ,5.0,5.0,Yes,"Dec 10th, 2018", CS3410
+Anne Bracy ,None,None,None,None,None
+Anne Bracy ,5.0,4.0,Yes,"Nov 8th, 2018", CS3410
+Anne Bracy ,5.0,2.0,Yes,"Aug 13th, 2018", CS1110
+Anne Bracy ,4.0,3.0,Yes,"May 20th, 2018", CS1110
+Anne Bracy ,None,None,None,None,None
+Anne Bracy ,5.0,4.0,Yes,"May 18th, 2018", CS1110
+Anne Bracy ,5.0,2.0,Yes,"May 13th, 2018", CS1110
+Anne Bracy ,5.0,4.0,B+,"Feb 20th, 2018", CS3410
+Anne Bracy ,None,None,None,None,None
+Anne Bracy ,5.0,4.0,Yes,"Feb 17th, 2018", CS4410
+Anne Bracy ,5.0,4.0,A,"Dec 9th, 2017", CS3410
+Anne Bracy ,5.0,5.0,Yes,"Dec 8th, 2017", CS3410
+Anne Bracy ,None,None,None,None,None
+Anne Bracy ,1.0,5.0,Yes,"Jul 6th, 2017", CS4410
+Michael Clarkson ,5.0,5.0,Yes,"Dec 8th, 2020", CS3110
+Michael Clarkson ,5.0,2.0,Yes,"Aug 16th, 2020", CS2110
+Michael Clarkson ,4.0,3.0,Yes,"May 23rd, 2020", CS2110
+Michael Clarkson ,5.0,4.0,Yes,"Apr 7th, 2020", CS2110
+Michael Clarkson ,None,None,None,None,None
+Michael Clarkson ,5.0,3.0,Yes,"Feb 6th, 2020", CS3110
+Michael Clarkson ,5.0,4.0,Yes,"Sep 11th, 2019", CS3110
+Michael Clarkson ,5.0,4.0,Yes,"Aug 21st, 2019", CS3110
+Michael Clarkson ,None,None,None,None,None
+Michael Clarkson ,1.0,3.0,No,"Dec 14th, 2018", CS3110
+Michael Clarkson ,5.0,4.0,Yes,"Apr 7th, 2018", CS3110
+Michael Clarkson ,5.0,4.0,Yes,"Jan 23rd, 2018", CS3110
+Michael Clarkson ,None,None,None,None,None
+Michael Clarkson ,5.0,4.0,Yes,"Dec 7th, 2017", CS3110
+Michael Clarkson ,5.0,4.0,No,"Dec 5th, 2017", CS3110
+Michael Clarkson ,5.0,3.0,Yes,"Apr 20th, 2017", CS3110
+Michael Clarkson ,None,None,None,None,None
+Michael George ,1.0,5.0,No,"Dec 10th, 2020", CS2800
+Michael George ,4.0,3.0,Yes,"Dec 3rd, 2020", CS2800
+Michael George ,4.0,4.0,Yes,"May 23rd, 2020", CS2800
+Michael George ,5.0,4.0,Yes,"May 16th, 2020", CS2800
+Michael George ,None,None,None,None,None
+Michael George ,1.0,5.0,No,"Apr 18th, 2020", CS2800
+Michael George ,4.0,3.0,Yes,"Jan 23rd, 2020", CS2800
+Michael George ,1.0,5.0,No,"Jan 23rd, 2020", CS2800
+Michael George ,None,None,None,None,None
+Michael George ,1.0,5.0,No,"Sep 4th, 2019", CS2800
+Michael George ,4.0,4.0,Yes,"May 19th, 2019", CS2800
+Michael George ,3.0,5.0,No,"May 7th, 2019", CS2800
+Michael George ,None,None,None,None,None
+Michael George ,3.0,5.0,No,"Dec 15th, 2018", CS2800
+Michael George ,2.0,5.0,No,"Oct 15th, 2018", CS2800
+Michael George ,5.0,4.0,No,"Aug 31st, 2018", CS2800
+Michael George ,None,None,None,None,None
+Michael George ,5.0,3.0,Yes,"Aug 20th, 2018", CS2800
+Michael George ,4.0,4.0,Yes,"May 26th, 2018", CS2800
+Michael George ,5.0,3.0,Yes,"May 25th, 2018", CS2800
+Michael George ,None,None,None,None,None
+Michael George ,1.0,4.0,No,"May 19th, 2018", CS2800
+Michael George ,5.0,3.0,Yes,"May 12th, 2018", CS2800
+Michael George ,1.0,5.0,No,"May 1st, 2018", CS2800
+Michael George ,None,None,None,None,None
+Michael George ,2.0,3.0,No,"Jul 15th, 2017", CS4410
+Nate Foster ,5.0,3.0,Yes,"Dec 3rd, 2020", CS3110
+Nate Foster ,5.0,3.0,Yes,"Oct 7th, 2020", CS4110
+Nate Foster ,5.0,4.0,Yes,"May 27th, 2020", CS3110
+Nate Foster ,5.0,4.0,Yes,"May 19th, 2020", CS3110
+Nate Foster ,None,None,None,None,None
+Nate Foster ,5.0,2.0,No,"May 16th, 2020", CS3110
+Nate Foster ,5.0,4.0,Yes,"May 5th, 2020", CS3110
+Nate Foster ,5.0,4.0,Yes,"Apr 30th, 2020", CS3110
+Nate Foster ,None,None,None,None,None
+Nate Foster ,5.0,4.0,Yes,"Apr 16th, 2020", CS3110
+Nate Foster ,5.0,4.0,Yes,"Mar 13th, 2020", CS3110
+Nate Foster ,2.0,4.0,No,"Feb 29th, 2020", CS3110
+Nate Foster ,None,None,None,None,None
+Nate Foster ,5.0,4.0,Yes,"Feb 20th, 2020", CS3110
+Nate Foster ,5.0,2.0,Yes,"May 22nd, 2018", CS3110
+Nate Foster ,5.0,4.0,Yes,"May 3rd, 2018", CS3110
+Nate Foster ,None,None,None,None,None
+Anil Damle ,5.0,1.0,Yes,"Nov 11th, 2019", CS3220
+Anil Damle ,5.0,4.0,No,"Mar 31st, 2019", CS4220
+Alan Giambattista ,3.0,4.0,Yes,"May 23rd, 2020", PHYS2213
+Alan Giambattista ,4.0,3.0,Yes,"Aug 14th, 2018", PHYS2213
+Alan Giambattista ,4.0,4.0,Yes,"May 18th, 2018", PHYS2213
+Alan Giambattista ,5.0,3.0,Yes,"May 28th, 2017", PHYS2213
+Alan Giambattista ,None,None,None,None,None
+Alan Giambattista ,4.0,3.0,Yes,"Dec 5th, 2016", PHYS1101
+Alan Giambattista ,3.0,4.0,Yes,"May 1st, 2015", PHYS1102
+Alan Giambattista ,3.5,4.0,None,"Jan 3rd, 2015", PHYS1101
+Alan Giambattista ,None,None,None,None,None
+Alan Giambattista ,1.0,5.0,F,"Oct 30th, 2014", PHYS213
+Alan Giambattista ,3.0,3.0,None,"Jun 29th, 2014", PHYS1101
+Alan Giambattista ,1.0,5.0,None,"May 6th, 2014", PHYS1112
+Alan Giambattista ,None,None,None,None,None
+Alan Giambattista ,2.0,5.0,None,"Dec 31st, 2013", PHYS1101
+Alan Giambattista ,4.0,2.0,None,"Jan 14th, 2010", PHYS2214
+Alan Giambattista ,4.5,4.0,None,"Oct 22nd, 2008", PHYS2214
+Alan Giambattista ,None,None,None,None,None
+Alan Giambattista ,5.0,3.0,None,"Feb 17th, 2008", PHYS214
+Alan Giambattista ,5.0,2.0,None,"Oct 10th, 2007", PHYS214
+Alan Giambattista ,4.5,2.0,None,"Mar 5th, 2007", PHYS214
+Alan Giambattista ,None,None,None,None,None
+Alan Giambattista ,5.0,3.0,None,"Feb 20th, 2006", PHYS214
+Alan Giambattista ,5.0,3.0,None,"Sep 21st, 2005", PHYS216
+Alan Giambattista ,5.0,3.0,None,"Oct 31st, 2003", PHYS214
+Alan Giambattista ,None,None,None,None,None
+Alan Giambattista ,5.0,5.0,None,"Oct 30th, 2003", PHYS214
+David Albonesi ,5.0,2.0,Yes,"Feb 6th, 2020", ECE2300
+David Albonesi ,2.0,4.0,No,"Nov 12th, 2019", ECE2300
+David Albonesi ,5.0,3.0,Yes,"May 22nd, 2019", ECE1210
+David Albonesi ,5.0,4.0,Yes,"Mar 19th, 2019", ENGRI1210
+David Albonesi ,None,None,None,None,None
+David Albonesi ,5.0,2.0,A+,"Dec 26th, 2017", ECE2300
+David Albonesi ,4.5,2.0,None,"Dec 28th, 2014", ECE2300
+David Albonesi ,5.0,1.0,None,"Dec 28th, 2014", ECE2300
+David Albonesi ,None,None,None,None,None
+David Albonesi ,4.5,3.0,No,"Apr 27th, 2014", ECE2300
+David Albonesi ,4.0,2.0,None,"Apr 9th, 2014", ECE2300
+David Albonesi ,5.0,2.0,Yes,"Feb 15th, 2014", ECE2300
+David Albonesi ,None,None,None,None,None
+David Albonesi ,5.0,2.0,No,"Dec 24th, 2013", ECE2300
+David Albonesi ,4.0,2.0,None,"Dec 20th, 2013", ECE2300
+David Albonesi ,4.5,2.0,None,"Oct 28th, 2013", ECE2300
+David Albonesi ,None,None,None,None,None
+David Albonesi ,4.5,4.0,None,"Jan 5th, 2013", ENGRI1210
+David Albonesi ,4.5,3.0,None,"Oct 10th, 2012", ENGRI1210
+David Albonesi ,4.5,2.0,None,"Mar 9th, 2012", ECE1210
+David Albonesi ,None,None,None,None,None
+David Albonesi ,1.0,5.0,None,"Dec 5th, 2011", ENGRI1210
+David Albonesi ,1.0,5.0,None,"Oct 31st, 2011", ENGRI1210
+David Albonesi ,4.5,3.0,None,"May 19th, 2011", ECE2300
+David Albonesi ,None,None,None,None,None
+Alan Zehnder ,5.0,3.0,Yes,"Oct 9th, 2020", MATH2930
+Alan Zehnder ,5.0,3.0,Yes,"Oct 9th, 2020", MATH2930
+Alan Zehnder ,4.0,4.0,Yes,"May 13th, 2020", MATH2930
+Alan Zehnder ,1.0,4.0,No,"May 9th, 2020", MATH2930
+Alan Zehnder ,None,None,None,None,None
+Alan Zehnder ,5.0,1.0,Yes,"Sep 30th, 2015", MATH2930
+Alan Zehnder ,4.0,1.0,Yes,"Feb 15th, 2014", MATH2930
+Alan Zehnder ,3.5,1.0,None,"Oct 14th, 2011", MATH2930
+Alan Zehnder ,None,None,None,None,None
+Alan Zehnder ,4.5,2.0,None,"May 18th, 2010", MATH2940
+Alan Zehnder ,5.0,3.0,None,"Jan 9th, 2007", ENGRD202
+Alan Zehnder ,3.0,4.0,None,"Jun 7th, 2005", MATH293
+Alan Zehnder ,None,None,None,None,None
+Alan Zehnder ,3.5,4.0,None,"May 25th, 2005", MATH293
+Reyer Sjamaar ,5.0,3.0,Yes,"Dec 3rd, 2020", MATH1920
+Reyer Sjamaar ,5.0,4.0,Yes,"Apr 11th, 2019", MATH2210
+Reyer Sjamaar ,1.0,4.0,No,"Feb 14th, 2019", MATH1920
+Reyer Sjamaar ,2.0,5.0,No,"Jan 7th, 2019", MATH192
+Reyer Sjamaar ,None,None,None,None,None
+Reyer Sjamaar ,4.0,4.0,Yes,"Dec 14th, 2018", MATH1920
+Reyer Sjamaar ,3.0,4.0,No,"Nov 26th, 2018", MATH1920
+Reyer Sjamaar ,4.0,4.0,Yes,"Nov 16th, 2018", MATH1920
+Reyer Sjamaar ,None,None,None,None,None
+Reyer Sjamaar ,4.0,4.0,B+,"Aug 17th, 2018", MATH1920
+Reyer Sjamaar ,4.0,3.0,Yes,"Jan 25th, 2018", MATH1920
+Reyer Sjamaar ,2.0,4.0,No,"Jan 25th, 2018", MATH1920
+Reyer Sjamaar ,None,None,None,None,None
+Reyer Sjamaar ,4.0,3.0,Yes,"Dec 1st, 2017", MATH1920
+Reyer Sjamaar ,2.0,5.0,No,"Apr 5th, 2017", MATH2210
+Reyer Sjamaar ,5.0,4.0,Yes,"Nov 2nd, 2016", MATH2210
+Reyer Sjamaar ,None,None,None,None,None
+Reyer Sjamaar ,5.0,5.0,Yes,"Aug 9th, 2016", MATH2240
+Reyer Sjamaar ,5.0,4.0,None,"May 21st, 2016", MATH2240
+Reyer Sjamaar ,5.0,2.0,None,"Feb 6th, 2010", MATH2210
+Reyer Sjamaar ,None,None,None,None,None
+Reyer Sjamaar ,5.0,3.0,None,"Dec 6th, 2009", MATH2210
+Reyer Sjamaar ,5.0,4.0,None,"Dec 14th, 2008", MATH4500
+Reyer Sjamaar ,5.0,3.0,None,"May 27th, 2005", MATH651
+Reyer Sjamaar ,None,None,None,None,None
+Adrian Lewis ,3.0,3.0,Yes,"Jun 8th, 2019", MATH2940
+Adrian Lewis ,4.0,4.0,No,"Jan 18th, 2018", ORIE3300
+Adrian Lewis ,5.0,3.0,Yes,"Dec 28th, 2017", ORIE3300
+Adrian Lewis ,4.5,3.0,None,"May 26th, 2015", ORIE3300
+Adrian Lewis ,None,None,None,None,None
+Adrian Lewis ,4.0,4.0,B,"Jan 25th, 2015", ORIE3300
+Adrian Lewis ,1.0,5.0,None,"Dec 23rd, 2006", OR320
+Adrian Lewis ,4.5,3.0,None,"Dec 21st, 2006", ORIE320
+Adrian Lewis ,None,None,None,None,None
+Adrian Lewis ,5.0,2.0,None,"Apr 6th, 2006", OR320
+Adrian Lewis ,5.0,2.0,None,"Dec 14th, 2005", OR320
+Adrian Lewis ,5.0,3.0,None,"Nov 15th, 2005", ORIE320
+Adrian Lewis ,None,None,None,None,None
+Yudong Chen ,4.0,3.0,Yes,"Jan 5th, 2020", ENGRD2700
+Yudong Chen ,3.0,2.0,Yes,"Apr 24th, 2019", ENGRD2700
+David Easley ,5.0,4.0,Yes,"Feb 11th, 2020", ECON6090
+David Easley ,5.0,4.0,A-,"Dec 24th, 2019", ECON6090
+David Easley ,5.0,1.0,Yes,"Mar 3rd, 2018", ECON2040
+David Easley ,5.0,1.0,Yes,"Dec 27th, 2017", CS2850
+David Easley ,None,None,None,None,None
+David Easley ,5.0,1.0,A+,"Dec 26th, 2017", CS2850
+David Easley ,4.0,3.0,A,"Sep 10th, 2015", 6090
+David Easley ,4.5,3.0,A-,"Jul 22nd, 2015", INFO2040
+David Easley ,None,None,None,None,None
+David Easley ,5.0,4.0,None,"Mar 1st, 2015", INFO2040
+David Easley ,3.5,2.0,Yes,"Dec 22nd, 2014", INFO2040
+David Easley ,5.0,3.0,None,"Aug 2nd, 2012", ECON0000
+David Easley ,None,None,None,None,None
+David Easley ,4.5,1.0,None,"Jun 13th, 2010", INFO2040
+David Easley ,3.0,1.0,None,"May 17th, 2009", ECON2040
+David Easley ,3.5,4.0,None,"May 19th, 2008", ECON204
+David Easley ,None,None,None,None,None
+David Easley ,4.5,1.0,None,"Apr 6th, 2008", ECON204
+David Easley ,4.5,3.0,None,"Sep 6th, 2006", ECON301
+David Easley ,4.5,2.0,None,"Jan 25th, 2006", ECON301
+David Easley ,None,None,None,None,None
+David Easley ,4.5,4.0,None,"Jan 28th, 2005", ECON301
+David Easley ,5.0,2.0,None,"Jan 21st, 2005", ECON301
+David Easley ,4.5,2.0,None,"Jan 16th, 2005", ECON301
+David Easley ,None,None,None,None,None
+David Easley ,4.5,2.0,None,"Jan 6th, 2005", ECON301
+Andre Leclair ,2.0,3.0,No,"Oct 7th, 2019", PHYS2218
+Andre Leclair ,2.0,4.0,No,"Jun 8th, 2019", PHYS2218
+Andre Leclair ,1.0,4.0,No,"May 9th, 2019", PHYS2218
+Andre Leclair ,1.0,5.0,No,"May 9th, 2019", PHYS2218
+Andre Leclair ,None,None,None,None,None
+Andre Leclair ,1.0,5.0,No,"Apr 15th, 2019", PHYS2218
+Andre Leclair ,5.0,5.0,Yes,"May 5th, 2017", PHYS1112
+Andre Leclair ,5.0,3.0,Yes,"Sep 29th, 2016", PHYS2218
+Andre Leclair ,None,None,None,None,None
+Andre Leclair ,3.0,3.0,A-,"Apr 7th, 2016", PHYS2218
+Andre Leclair ,1.0,2.0,Not sure yet,"Nov 11th, 2014", PHYS2218
+Andre Leclair ,4.0,2.0,Yes,"Feb 15th, 2014", PHYS3316
+Andre Leclair ,None,None,None,None,None
+Andre Leclair ,4.5,2.0,None,"Dec 18th, 2013", PHYS2218
+Andre Leclair ,4.5,3.0,None,"Jun 20th, 2012", PHYS1112
+Andre Leclair ,4.0,4.0,None,"Jun 5th, 2012", PHYS1112
+Andre Leclair ,None,None,None,None,None
+Andre Leclair ,3.5,2.0,None,"Apr 15th, 2012", PHYS1112
+Andre Leclair ,4.5,1.0,None,"Apr 11th, 2012", PHYS1112
+Andre Leclair ,4.0,4.0,None,"Jan 30th, 2011", PHYS2213
+Andre Leclair ,None,None,None,None,None
+Andre Leclair ,1.5,1.0,None,"Mar 9th, 2010", PHY1112
+Andre Leclair ,3.5,4.0,None,"Dec 22nd, 2009", PHYS1101
+Andre Leclair ,5.0,2.0,None,"Jan 2nd, 2008", PHYS112
+Andre Leclair ,None,None,None,None,None
+Andre Leclair ,2.5,3.0,None,"Dec 9th, 2007", PHYS112
+Alex Townsend ,5.0,4.0,Yes,"Oct 6th, 2020", MATH2940
+Alex Townsend ,5.0,4.0,A-,"Dec 27th, 2019", MATH2940
+Alex Townsend ,1.0,5.0,No,"Dec 17th, 2019", MATH2940
+Alex Townsend ,5.0,4.0,Yes,"Nov 10th, 2019", MATH2930
+Alex Townsend ,None,None,None,None,None
+Alex Townsend ,5.0,4.0,Yes,"Jun 6th, 2019", MATH2930
+Alex Townsend ,5.0,4.0,Yes,"Mar 16th, 2019", MATH2930
+Alex Townsend ,2.0,4.0,No,"Dec 21st, 2018", MATH2930
+Alex Townsend ,None,None,None,None,None
+Alex Townsend ,5.0,4.0,Yes,"Dec 17th, 2018", MATH2930
+Alex Townsend ,5.0,4.0,Yes,"Dec 15th, 2018", MATH2930
+Alex Townsend ,5.0,4.0,Yes,"Dec 14th, 2018", MATH2930
+Alex Townsend ,None,None,None,None,None
+Alex Townsend ,5.0,3.0,Yes,"Dec 12th, 2018", MATH2930
+Alex Townsend ,1.0,4.0,No,"Dec 11th, 2018", MATH2930
+Alex Townsend ,1.0,4.0,No,"Oct 19th, 2018", MATH2930
+Alex Townsend ,None,None,None,None,None
+Alex Townsend ,5.0,4.0,Yes,"May 20th, 2018", MATH2220
+Alex Townsend ,5.0,4.0,Yes,"May 18th, 2018", MATH2220
+Alex Townsend ,5.0,4.0,Yes,"Apr 15th, 2018", MATH2220
+Alex Townsend ,None,None,None,None,None
+David Muller ,5.0,3.0,None,"Dec 17th, 2012", AEP6610
+David Muller ,4.5,1.0,None,"Dec 13th, 2011", AEP6610
+David Muller ,1.0,5.0,None,"Apr 1st, 2006", PHYS112
+Daisy Fan ,5.0,3.0,Yes,"Dec 1st, 2020", CS1112
+Daisy Fan ,5.0,3.0,Yes,"Dec 1st, 2020", CS1110
+Daisy Fan ,5.0,3.0,Yes,"Jun 1st, 2020", CS1110
+Daisy Fan ,5.0,2.0,A,"May 19th, 2020", CS1110
+Daisy Fan ,None,None,None,None,None
+Daisy Fan ,5.0,3.0,Yes,"Apr 15th, 2020", CS1110
+Daisy Fan ,5.0,2.0,Yes,"Jun 20th, 2019", CS1112
+Daisy Fan ,3.0,3.0,Yes,"Jan 24th, 2019", CS1112
+Daisy Fan ,None,None,None,None,None
+Daisy Fan ,5.0,5.0,No,"Dec 21st, 2018", CS1112
+Daisy Fan ,4.0,2.0,A,"Dec 20th, 2018", CS1112
+Daisy Fan ,4.0,5.0,B,"Dec 2nd, 2018", CS1112
+Daisy Fan ,None,None,None,None,None
+Daisy Fan ,5.0,3.0,Yes,"Oct 26th, 2018", CS1132
+Daisy Fan ,5.0,3.0,A+,"Oct 14th, 2018", CS1112
+Daisy Fan ,5.0,3.0,Yes,"Jul 16th, 2018", CS1112
+Daisy Fan ,None,None,None,None,None
+Daisy Fan ,5.0,2.0,Yes,"Mar 10th, 2018", CS1112
+Daisy Fan ,3.0,5.0,Yes,"Feb 2nd, 2018", CS1112
+Daisy Fan ,5.0,4.0,Yes,"Dec 9th, 2017", CS1112
+Daisy Fan ,None,None,None,None,None
+Daisy Fan ,4.0,3.0,Yes,"Dec 6th, 2017", CS1112
+Daisy Fan ,4.0,3.0,Yes,"Nov 15th, 2017", CS1112
+Daisy Fan ,4.0,3.0,B+,"Oct 2nd, 2017", CS1112
+Daisy Fan ,None,None,None,None,None
+Daisy Fan ,5.0,4.0,Yes,"Jun 2nd, 2017", CS1112
+John Callister ,1.0,3.0,Yes,"Oct 28th, 2020", ORIE3150
+John Callister ,1.0,1.0,No,"Oct 26th, 2020", ENGRI1270
+John Callister ,2.0,3.0,No,"Jul 14th, 2020", MAE3230
+John Callister ,1.0,4.0,No,"Dec 16th, 2019", ORIE3150
+John Callister ,None,None,None,None,None
+John Callister ,1.0,3.0,Yes,"Dec 13th, 2019", ORIE3150
+John Callister ,5.0,2.0,Yes,"Nov 16th, 2019", OR3150
+John Callister ,1.0,2.0,No,"Sep 19th, 2019", ORIE9100
+John Callister ,None,None,None,None,None
+John Callister ,5.0,1.0,Yes,"Apr 23rd, 2019", MAE4860
+John Callister ,4.0,3.0,Yes,"Jan 5th, 2019", OR3150
+John Callister ,3.0,4.0,Yes,"Dec 28th, 2017", ORIE3150
+John Callister ,None,None,None,None,None
+John Callister ,1.0,4.0,No,"Oct 31st, 2017", ORIE3150
+John Callister ,3.0,3.0,No,"Aug 17th, 2016", ORIE3150
+John Callister ,5.0,1.0,No,"Jan 28th, 2016", OR3150
+John Callister ,None,None,None,None,None
+John Callister ,4.5,1.0,None,"Sep 25th, 2015", MAE4300
+John Callister ,4.0,2.0,A,"Jun 10th, 2015", ENGRI1270
+John Callister ,3.5,3.0,None,"May 28th, 2015", MAE4860
+John Callister ,None,None,None,None,None
+John Callister ,4.0,1.0,None,"May 10th, 2015", ENGRI1270
+John Callister ,4.0,1.0,None,"Apr 20th, 2014", ENGRI1270
+John Callister ,4.0,2.0,None,"Jan 1st, 2014", MAE4610
+John Callister ,None,None,None,None,None
+John Callister ,2.5,3.0,None,"Feb 27th, 2013", ORIE4152
+Carl Poitras ,5.0,3.0,Yes,"Nov 2nd, 2020", MAT1910
+Carl Poitras ,5.0,3.0,Yes,"Oct 30th, 2020", MATH1910
+Carl Poitras ,5.0,4.0,Yes,"Oct 30th, 2020", MATH1910
+Carl Poitras ,5.0,3.0,B+,"Aug 29th, 2020", MAT1910
+Carl Poitras ,None,None,None,None,None
+Carl Poitras ,5.0,4.0,Yes,"Aug 6th, 2020", MAT2930
+Carl Poitras ,1.0,3.0,No,"Dec 15th, 2019", ECE3400
+Carl Poitras ,1.0,3.0,No,"Nov 21st, 2019", ECE3400
+Carl Poitras ,None,None,None,None,None
+Carl Poitras ,5.0,4.0,Yes,"Aug 7th, 2019", ECE4370
+Carl Poitras ,5.0,4.0,Yes,"Dec 23rd, 2018", MATH1910
+Carl Poitras ,5.0,4.0,Yes,"Dec 2nd, 2018", MAT1910
+Carl Poitras ,None,None,None,None,None
+Carl Poitras ,5.0,2.0,Yes,"Sep 19th, 2018", MATH1910
+Carl Poitras ,1.0,5.0,No,"May 23rd, 2018", ECE4370
+Carl Poitras ,3.0,3.0,No,"May 17th, 2018", ECE4370
+Carl Poitras ,None,None,None,None,None
+Carl Poitras ,5.0,4.0,Yes,"Nov 15th, 2017", MATH1910
+Carl Poitras ,5.0,3.0,Yes,"Oct 18th, 2017", MAT1910
+Carl Poitras ,5.0,4.0,Yes,"Jun 6th, 2017", ECE4370
+Carl Poitras ,None,None,None,None,None
+Carl Poitras ,5.0,4.0,Yes,"Mar 23rd, 2017", ECE4370
+Carl Poitras ,4.0,3.0,Yes,"Dec 1st, 2016", ECE3400
+Carl Poitras ,5.0,3.0,Yes,"Nov 16th, 2016", ECE3400
+Carl Poitras ,None,None,None,None,None
+Carl Poitras ,5.0,3.0,Yes,"Sep 17th, 2016", ECE3400
+Liam McAllister ,5.0,4.0,Yes,"May 17th, 2019", PHYS1116
+Liam McAllister ,5.0,4.0,None,"Sep 23rd, 2013", PHYS1116
+Liam McAllister ,5.0,4.0,None,"Nov 25th, 2012", PHYS1116
+Liam McAllister ,5.0,4.0,None,"Nov 8th, 2012", PHY1116
+Liam McAllister ,None,None,None,None,None
+Liam McAllister ,5.0,5.0,None,"Aug 9th, 2012", PHYS1116
+Liam McAllister ,5.0,3.0,None,"Aug 7th, 2012", PHYS1116
+Liam McAllister ,4.5,3.0,None,"Jul 20th, 2012", PHYS1116
+Liam McAllister ,None,None,None,None,None
+Andrew Myers ,5.0,5.0,Yes,"May 16th, 2020", CS2112
+Andrew Myers ,5.0,4.0,A,"Jan 23rd, 2020", CS2112
+Andrew Myers ,5.0,4.0,No,"Dec 21st, 2019", CS2112
+Andrew Myers ,4.5,3.0,No,"Apr 19th, 2016", CS2112
+Andrew Myers ,None,None,None,None,None
+Andrew Myers ,5.0,4.0,A,"Apr 7th, 2016", CS2112
+Andrew Myers ,5.0,4.0,None,"Mar 30th, 2015", 2112
+Andrew Myers ,4.5,2.0,None,"Dec 18th, 2012", CS2112
+Andrew Myers ,None,None,None,None,None
+Andrew Myers ,4.0,4.0,None,"Sep 8th, 2012", CS2112
+Andrew Myers ,3.0,5.0,None,"Apr 5th, 2006", COMS211
+Andrew Myers ,3.0,5.0,None,"Feb 23rd, 2006", CS211
+Andrew Myers ,None,None,None,None,None
+Andrew Myers ,4.5,5.0,None,"Apr 8th, 2005", CS412CS612
+Andrew Myers ,3.0,5.0,None,"Mar 18th, 2004", CS312
+Andrew Myers ,3.5,2.0,None,"Apr 15th, 2003", CS312
+Andrew Myers ,None,None,None,None,None
+Andrew Myers ,2.5,5.0,None,"Apr 6th, 2003", CS314
+Katya Scheinberg ,1.0,3.0,B,"Oct 14th, 2020", MATH2940
+Katya Scheinberg ,2.0,4.0,No,"Jun 9th, 2020", MATH2940
+Katya Scheinberg ,3.0,3.0,No,"May 30th, 2020", MATH2940
+Katya Scheinberg ,3.0,3.0,No,"May 23rd, 2020", MATH2940
+Katya Scheinberg ,None,None,None,None,None
+Ivan Bazarov ,1.0,4.0,No,"Oct 22nd, 2020", PHYS3317
+Ivan Bazarov ,4.5,5.0,None,"Mar 1st, 2016", PHYS3360
+Ivan Bazarov ,4.0,4.0,None,"Mar 1st, 2016", PHYS3317
+Ivan Bazarov ,5.0,4.0,No,"Mar 1st, 2016", PHYS3317
+Ivan Bazarov ,None,None,None,None,None
+Ivan Bazarov ,1.0,5.0,None,"May 17th, 2011", PHYS3360
+Ivan Bazarov ,4.0,4.0,None,"Dec 27th, 2010", PHYS3317
+Steven Strogatz ,1.0,4.0,No,"Jan 10th, 2020", MATH2930
+Steven Strogatz ,5.0,3.0,Audit/No Grade,"Dec 30th, 2019", MAE5790
+Steven Strogatz ,5.0,3.0,A,"Dec 19th, 2018", MATH4220
+Steven Strogatz ,5.0,2.0,Yes,"Sep 3rd, 2017", MATH1300
+Steven Strogatz ,None,None,None,None,None
+Steven Strogatz ,5.0,3.0,Yes,"Jul 18th, 2017", M4200
+Steven Strogatz ,5.0,3.0,Yes,"Dec 20th, 2016", MATH4220
+Steven Strogatz ,5.0,3.0,Yes,"Dec 9th, 2016", MAE5790
+Steven Strogatz ,None,None,None,None,None
+Steven Strogatz ,5.0,1.0,Yes,"Dec 8th, 2016", MATH1300
+Steven Strogatz ,5.0,2.0,A,"Dec 6th, 2016", MATH4220
+Steven Strogatz ,5.0,3.0,Yes,"Dec 1st, 2016", MATH4220
+Steven Strogatz ,None,None,None,None,None
+Steven Strogatz ,5.0,1.0,Yes,"Nov 30th, 2016", MATH1300
+Steven Strogatz ,5.0,3.0,Yes,"Nov 29th, 2016", MATH4220
+Steven Strogatz ,5.0,4.0,Yes,"Nov 29th, 2016", MATH4220
+Steven Strogatz ,None,None,None,None,None
+Steven Strogatz ,5.0,4.0,Yes,"Oct 28th, 2016", MATH1106
+Steven Strogatz ,3.0,4.0,No,"Dec 8th, 2015", MATH3110
+Steven Strogatz ,4.5,3.0,A,"May 16th, 2015", MATH4220
+Steven Strogatz ,None,None,None,None,None
+Steven Strogatz ,5.0,2.0,None,"Dec 3rd, 2014", MATH1300
+Steven Strogatz ,5.0,3.0,None,"Dec 2nd, 2014", MATH
+Steven Strogatz ,5.0,2.0,None,"Jul 20th, 2014", MAE5790
+Steven Strogatz ,None,None,None,None,None
+Steven Strogatz ,3.0,4.0,None,"Mar 4th, 2014", MATH2930
+David Delchamps ,5.0,4.0,Yes,"Aug 28th, 2020", ECE2200
+David Delchamps ,5.0,2.0,Yes,"May 12th, 2020", ECE4271
+David Delchamps ,1.0,5.0,No,"Feb 11th, 2020", ECE2200
+David Delchamps ,2.0,4.0,No,"Dec 14th, 2019", ECE2200
+David Delchamps ,None,None,None,None,None
+David Delchamps ,3.0,4.0,Yes,"May 17th, 2017", ECE4250
+David Delchamps ,5.0,3.0,Yes,"Dec 5th, 2016", ECE3250
+David Delchamps ,1.0,4.0,No,"May 31st, 2016", ECE5210
+David Delchamps ,None,None,None,None,None
+David Delchamps ,5.0,2.0,Yes,"Oct 29th, 2014", ECE3250
+David Delchamps ,5.0,1.0,Yes,"Jan 29th, 2014", EE521FALL1995
+David Delchamps ,5.0,1.0,None,"Apr 21st, 2013", EE301
+David Delchamps ,None,None,None,None,None
+David Delchamps ,5.0,4.0,None,"Dec 7th, 2011", ECE3250
+David Delchamps ,5.0,2.0,None,"Jun 21st, 2008", ENGRI126
+David Delchamps ,5.0,1.0,None,"Sep 8th, 2005", ECE301493521
+David Delchamps ,None,None,None,None,None
+David Delchamps ,4.0,3.0,None,"Aug 30th, 2005", EE301
+David Delchamps ,5.0,3.0,None,"Jun 10th, 2005", ECE301
+David Delchamps ,5.0,2.0,None,"Feb 3rd, 2005", ECE493
+David Delchamps ,None,None,None,None,None
+David Delchamps ,5.0,3.0,None,"Dec 13th, 2003", ECE301302
+David Delchamps ,5.0,3.0,None,"Nov 13th, 2003", ECE301
+David Delchamps ,2.5,1.0,None,"Nov 11th, 2003", ECE211
+David Delchamps ,None,None,None,None,None
+David Delchamps ,4.5,2.0,None,"Oct 29th, 2003", ECE301
+Clifford Pollock ,3.0,3.0,Yes,"Jan 22nd, 2020", ECE2100
+Clifford Pollock ,5.0,3.0,Yes,"Jul 12th, 2016", ECE3030
+Clifford Pollock ,4.5,4.0,Yes,"Sep 18th, 2015", ECE2100
+Clifford Pollock ,4.0,2.0,None,"Jun 5th, 2014", ECE2100
+Clifford Pollock ,None,None,None,None,None
+Clifford Pollock ,5.0,3.0,None,"Apr 14th, 2014", ECE2100
+Clifford Pollock ,5.0,3.0,None,"Feb 25th, 2013", ECE2100
+Clifford Pollock ,4.0,3.0,None,"Oct 29th, 2005", ECE303
+Clifford Pollock ,None,None,None,None,None
+Richard Rand ,2.0,3.0,No,"Jun 1st, 2020", MAE2030
+Richard Rand ,2.0,3.0,No,"May 11th, 2020", MAE2030
+Richard Rand ,5.0,3.0,Yes,"May 12th, 2019", MATH2930
+Richard Rand ,3.0,3.0,A,"Oct 14th, 2018", MATH2930
+Richard Rand ,None,None,None,None,None
+Richard Rand ,3.0,4.0,Yes,"Jan 10th, 2018", MATH2930
+Richard Rand ,5.0,2.0,Yes,"Dec 20th, 2017", MATH2930
+Richard Rand ,5.0,3.0,Yes,"Dec 1st, 2017", MATH2930
+Richard Rand ,None,None,None,None,None
+Richard Rand ,3.5,3.0,B,"Jun 5th, 2015", MATH2930
+Richard Rand ,4.0,4.0,Yes,"May 22nd, 2015", MATH2930
+Richard Rand ,5.0,1.0,None,"Dec 24th, 2012", MATH2220
+Richard Rand ,None,None,None,None,None
+Richard Rand ,5.0,2.0,None,"Dec 21st, 2012", MATH2220
+Richard Rand ,5.0,2.0,None,"Oct 30th, 2010", MATH3230
+Richard Rand ,4.5,5.0,None,"Feb 13th, 2010", TAM310
+Richard Rand ,None,None,None,None,None
+Richard Rand ,2.5,3.0,None,"Jun 9th, 2008", TAM310
+Richard Rand ,5.0,3.0,None,"Jun 14th, 2007", MATH293
+Richard Rand ,2.0,4.0,None,"Jan 23rd, 2007", TAM611
+Richard Rand ,None,None,None,None,None
+Richard Rand ,4.0,3.0,None,"Dec 2nd, 2006", MATH293
+Richard Rand ,5.0,2.0,None,"Oct 24th, 2006", MATH293
+Richard Rand ,5.0,1.0,None,"May 18th, 2006", TAM310
+Richard Rand ,None,None,None,None,None
+Richard Rand ,5.0,1.0,None,"Dec 12th, 2004", TAM310
+Hadas Ritz ,2.0,5.0,Yes,"Oct 19th, 2020", ENGRD2020
+Hadas Ritz ,1.0,4.0,No,"Sep 22nd, 2020", ENGRD2020
+Hadas Ritz ,2.0,4.0,No,"Dec 12th, 2019", MATH2930
+Hadas Ritz ,3.0,5.0,No,"Mar 4th, 2019", MAE3260
+Hadas Ritz ,None,None,None,None,None
+Hadas Ritz ,3.0,4.0,Yes,"Nov 26th, 2018", ENGRD2020
+Hadas Ritz ,2.0,5.0,No,"Feb 20th, 2018", MAE2030
+Hadas Ritz ,5.0,4.0,Yes,"Feb 2nd, 2018", MATH1910
+Hadas Ritz ,None,None,None,None,None
+Hadas Ritz ,5.0,4.0,Yes,"Jan 15th, 2018", ENGRD2020
+Hadas Ritz ,3.0,5.0,No,"May 5th, 2017", MAE3260
+Hadas Ritz ,2.0,5.0,No,"Mar 30th, 2017", MAE3260
+Hadas Ritz ,None,None,None,None,None
+Hadas Ritz ,4.0,3.0,Yes,"Oct 1st, 2016", MATH1910
+Hadas Ritz ,4.0,2.0,No,"May 2nd, 2016", ENGRI1170
+Hadas Ritz ,4.5,2.0,Yes,"Jan 16th, 2016", ENGRI1170
+Hadas Ritz ,None,None,None,None,None
+Hadas Ritz ,5.0,2.0,No,"Dec 23rd, 2015", ENGRI1170
+Hadas Ritz ,4.0,3.0,B+,"Dec 12th, 2015", MATH1910
+Hadas Ritz ,5.0,4.0,B,"Nov 13th, 2015", MATH1910
+Hadas Ritz ,None,None,None,None,None
+Hadas Ritz ,5.0,3.0,No,"Nov 13th, 2014", ENGRI1170
+Hadas Ritz ,5.0,3.0,Yes,"Jan 23rd, 2014", MATH1910
+Hadas Ritz ,5.0,3.0,Yes,"Dec 12th, 2013", MATH1910
+Hadas Ritz ,None,None,None,None,None
+Hadas Ritz ,4.5,2.0,None,"Dec 6th, 2012", ENGRI1170
+"Christopher ""Kit"" Umbach ",3.0,4.0,No,"May 9th, 2018", ENGRI1110
+"Christopher ""Kit"" Umbach ",2.0,4.0,No,"Apr 10th, 2018", ENGRI1140
+"Christopher ""Kit"" Umbach ",4.5,3.0,None,"Apr 21st, 2015", ENGRI1110
+"Christopher ""Kit"" Umbach ",3.5,4.0,None,"Jan 15th, 2015", 1110
+"Christopher ""Kit"" Umbach ",None,None,None,None,None
+"Christopher ""Kit"" Umbach ",3.0,3.0,None,"Dec 30th, 2011", ENGRI1110
+"Christopher ""Kit"" Umbach ",1.0,5.0,None,"May 27th, 2011", ENGRI1110
+"Christopher ""Kit"" Umbach ",5.0,2.0,None,"Jan 31st, 2010", MSE3070
+"Christopher ""Kit"" Umbach ",None,None,None,None,None
+"Christopher ""Kit"" Umbach ",2.5,4.0,None,"Jan 13th, 2010", ENGRI1110
+"Christopher ""Kit"" Umbach ",3.5,4.0,None,"Oct 23rd, 2009", ENGRI111
+"Christopher ""Kit"" Umbach ",5.0,1.0,None,"Dec 16th, 2005", ENGRI111
+"Christopher ""Kit"" Umbach ",None,None,None,None,None
+Aaron Wagner ,5.0,4.0,Yes,"Dec 19th, 2019", ECE5620
+Aaron Wagner ,5.0,5.0,Yes,"May 28th, 2019", ECE5620
+Aaron Wagner ,5.0,5.0,Yes,"May 24th, 2018", ECE5620
+Aaron Wagner ,5.0,4.0,Yes,"Dec 7th, 2017", ECE4670
+Aaron Wagner ,None,None,None,None,None
+Aaron Wagner ,5.0,3.0,A-,"Aug 12th, 2015", ECE4670
+Aaron Wagner ,5.0,3.0,Yes,"Dec 24th, 2013", ECE3100
+Aaron Wagner ,5.0,4.0,None,"Dec 5th, 2011", ECE3100
+Aaron Wagner ,None,None,None,None,None
+Hakim Weatherspoon ,1.0,4.0,No,"Apr 16th, 2020", CS3410
+Hakim Weatherspoon ,3.5,3.0,None,"Jul 22nd, 2015", CS3410
+Hakim Weatherspoon ,1.0,5.0,None,"Feb 10th, 2014", CS3410
+Hakim Weatherspoon ,1.5,3.0,None,"May 17th, 2013", CS3410
+Hakim Weatherspoon ,None,None,None,None,None
+Hakim Weatherspoon ,3.5,5.0,None,"May 6th, 2013", CS3410
+Hakim Weatherspoon ,2.0,5.0,None,"Mar 31st, 2013", CS3410
+Hakim Weatherspoon ,4.5,3.0,None,"Mar 19th, 2012", CS3410
+Hakim Weatherspoon ,None,None,None,None,None
+Hakim Weatherspoon ,1.5,4.0,None,"Feb 2nd, 2012", CS3410
+Hakim Weatherspoon ,1.0,4.0,None,"Oct 26th, 2011", CS3410
+Hakim Weatherspoon ,4.5,2.0,None,"Apr 20th, 2011", CS3410
+Hakim Weatherspoon ,None,None,None,None,None
+Jamol Pender ,5.0,3.0,No,"May 12th, 2020", ENGRD2700
+Jamol Pender ,5.0,3.0,Yes,"Feb 12th, 2020", ORIE4130
+Jamol Pender ,5.0,4.0,B+,"Apr 14th, 2017", ORIE3500
+Phoebe Sengers ,4.0,4.0,Yes,"Jan 21st, 2020", INFO4240
+Phoebe Sengers ,5.0,3.0,Yes,"Dec 12th, 2018", INFO4240
+Phoebe Sengers ,2.0,1.0,No,"Sep 3rd, 2017", INFO4240
+Phoebe Sengers ,5.0,2.0,Yes,"Sep 20th, 2016", INFO4240
+Phoebe Sengers ,None,None,None,None,None
+Phoebe Sengers ,4.5,3.0,No,"Oct 27th, 2015", INFO4240
+Phoebe Sengers ,3.0,4.0,No,"Dec 1st, 2014", 4240
+Phoebe Sengers ,5.0,1.0,None,"Jan 7th, 2012", INFO1300
+Phoebe Sengers ,None,None,None,None,None
+Phoebe Sengers ,3.0,1.0,None,"Sep 17th, 2005", INFO130
+Phoebe Sengers ,4.5,3.0,None,"Dec 19th, 2004", STS387
+Ronald Dinapoli ,5.0,2.0,None,"Apr 18th, 2010", CS2024
+Ronald Dinapoli ,3.5,3.0,None,"Jan 18th, 2009", CS2024
+Thomas Ruttledge ,5.0,5.0,Yes,"Aug 9th, 2019", CHEM2510
+Thomas Ruttledge ,3.0,4.0,No,"Aug 8th, 2019", CHEM3580
+Thomas Ruttledge ,3.0,4.0,No,"Aug 8th, 2019", CHEM3580
+Thomas Ruttledge ,2.0,5.0,Yes,"Jul 30th, 2019", CHEM3580
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,2.0,5.0,No,"Jun 26th, 2019", CHEM3580
+Thomas Ruttledge ,3.0,3.0,No,"Jun 20th, 2019", CHEM3580
+Thomas Ruttledge ,1.0,4.0,No,"May 31st, 2019", CHEM3580
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,5.0,4.0,Yes,"May 28th, 2019", CHEM3580
+Thomas Ruttledge ,3.0,4.0,Yes,"May 28th, 2019", CHEM2510
+Thomas Ruttledge ,2.0,5.0,No,"May 18th, 2019", CHEM3580
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,1.0,5.0,No,"Apr 12th, 2019", CHEM3580
+Thomas Ruttledge ,5.0,1.0,Yes,"Mar 30th, 2019", CHEM1150
+Thomas Ruttledge ,1.0,5.0,No,"Mar 19th, 2019", CHEM3580
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,5.0,3.0,Yes,"Jan 31st, 2019", CHEM1150
+Thomas Ruttledge ,1.0,5.0,No,"Dec 20th, 2018", CHEM2510
+Thomas Ruttledge ,1.0,4.0,No,"Dec 19th, 2018", CHEM2510
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,5.0,4.0,Yes,"Sep 12th, 2018", CHEM0000
+Thomas Ruttledge ,2.0,5.0,No,"Jun 19th, 2018", CHEM2510
+Thomas Ruttledge ,5.0,5.0,Yes,"Jun 6th, 2018", CHEM3580AND2510
+Thomas Ruttledge ,None,None,None,None,None
+Thomas Ruttledge ,4.0,4.0,Yes,"May 30th, 2018", CHEM3580
+Jose Martinez ,5.0,2.0,Yes,"May 27th, 2019", ECE3140
+Jose Martinez ,2.0,4.0,No,"May 11th, 2019", ECE3140
+Jose Martinez ,3.0,4.0,No,"Apr 30th, 2019", ECE3140
+Jose Martinez ,4.0,5.0,Yes,"Jun 5th, 2018", ECE2400
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,4.0,5.0,Yes,"Jun 5th, 2018", ECE2400
+Jose Martinez ,3.0,4.0,Yes,"May 19th, 2017", ECE2400
+Jose Martinez ,3.0,3.0,None,"May 23rd, 2015", ECE3140
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,4.5,4.0,None,"Oct 26th, 2011", ECE2300
+Jose Martinez ,1.0,5.0,None,"May 10th, 2010", ECE2300
+Jose Martinez ,2.0,5.0,None,"May 13th, 2009", ECE2300
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,4.5,4.0,None,"Mar 24th, 2009", ECE2300
+Jose Martinez ,1.0,5.0,None,"Jun 18th, 2008", ECE230
+Jose Martinez ,2.5,5.0,None,"Apr 4th, 2008", ECE230
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,2.0,5.0,None,"Apr 4th, 2008", ECE230
+Jose Martinez ,4.5,4.0,None,"May 6th, 2004", ECE475
+Jose Martinez ,5.0,3.0,None,"Feb 14th, 2004", ECE475
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,5.0,4.0,None,"Nov 11th, 2003", 475
+Jose Martinez ,1.0,5.0,None,"Nov 4th, 2003", ECE475
+Jose Martinez ,4.5,4.0,None,"Nov 3rd, 2003", ECE475
+Jose Martinez ,None,None,None,None,None
+Jose Martinez ,1.0,3.0,None,"Nov 3rd, 2003", ECE475
